@@ -1,0 +1,23 @@
+[
+    {
+        "barcode": "TUNGBUNG",
+        "title": "Ưu đãi 30% đơn từ 4 món (bánh, snack,nước)",
+        "description": "- Giảm 30% tối đa 35k cho đơn từ 4 món.\n- Áp dụng dịch vụ Giao hàng\n- Ưu đãi chỉ áp dụng cho đơn hàng được giao từ 01/12 đến hết ngày 31/12/2021.\n- Ưu đãi áp dụng cho bánh, snack, nước (trừ Cà phê Latte Táo Lê Quế nóng/đá & Trà sữa Masala Chai nóng/đá). \n- Không áp dụng cho merchandise, cà phê gói/lon, Tearoma (trà lá, trà túi lọc), topping, các loại combo, nước đóng chai Fresh.\n- Không áp dụng cho các chương trình khuyến mãi song song.\n- Số lượng ưu đãi có hạn.",
+        "image": "https://minio.thecoffeehouse.com/image/admin/Coupondelivery10k_238803.jpg",
+        "discount_rate": 30
+    },
+    {
+        "barcode": "MANGDI",
+        "title": "Ưu đãi 20% đơn Takeaway 2 món bất kỳ",
+        "description": "- Giảm 20% cho đơn từ 2 món.  \n- Ưu đãi áp dụng cho bánh, snack, nước (trừ Cà phê Latte Táo Lê Quế nóng/đá & Trà sữa Masala Chai nóng/đá). \n- Không áp dụng cho merchandise, cà phê gói/lon, Tearoma (trà lá, trà túi lọc), topping, các loại combo, nước đóng chai Fresh\n- Áp dụng cho đơn Mang đi tại HCM, Hà Nội, Hưng Yên, Hà Tĩnh, Hải Phòng, Thanh Hóa và Bắc Ninh.\n- Ưu đãi chỉ áp dụng cho đơn hàng mang đi từ 01/12 đến hết ngày 31/12/2021.\n- Không áp dụng cho các chương trình khuyến mãi song song.\n- Số lượng ưu đãi có hạn.",
+        "image": "https://minio.thecoffeehouse.com/image/admin/storage/696_Coupon_20Pickup_2020_.jpg",
+        "discount_rate": 20
+    },
+    {
+        "barcode": "ANSANGNHE",
+        "title": "Ly Cà Phê 19k khi mua cùng bánh",
+        "description": "Ưu đãi ly Cà Phê 19k khi mua cùng Bánh Mì Thịt Nguội/Croissant Trứng Muối/Chà Bông Phô Mai\n- Áp dụng khi mua tại cửa hàng (Trừ các cửa hàng Destination, TCH Now, Kiosk), dịch vụ Giao tận nơi (Delivery) & Mang đi (Takeaway)\n- Áp dụng giá 19k cho sản phẩm Cà Phê Sữa Đá/ nóng size M, Cà Phê Đen Đá/ nóng size M, Bạc Sỉu đá/ nóng size M khi mua kèm Bánh Mì Thịt Nguội, Bánh Croissant Trứng Muối, Bánh Mì Chà Bông Phô Mai\n- Không áp dụng cho Merchandise, Cà Phê gói/lon, Tearoma (Trà lá, trà túi lọc), sản phẩm chai Fresh topping và các loại combo\n- Không áp dụng cho các chương trình khuyến mãi song song\n- Thời hạn ưu đãi: 07:00 - 13:00 từ 01/12/2021 đến hết ngày 28/02/2022",
+        "image": "https://minio.thecoffeehouse.com/image/admin/dong_gia_19k_coupon_499462.jpg",
+        "discount_rate": null
+    }
+]
