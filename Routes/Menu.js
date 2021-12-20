@@ -24,15 +24,12 @@ router.get('/' , async (req , res) => {
     catch( err ) {
         res.json({message: err});
     }
-});
+}); 
 
-router.get('/:coffeeId' , async (req , res) => {
-    try{
-        const coffee = await Coffee.findById(req.params.coffeeId);
-        res.json( coffee );
-    }catch( err ) {
-        res.json({message: err});
-    }
-});
+
+
+
+
+
 
 module.exports = router;
