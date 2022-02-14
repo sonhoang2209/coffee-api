@@ -22,17 +22,30 @@ router.get('/:userId' , async (req , res) => {
     }
 });
 
+router.post('/login' , async (req , res) => {
+    try{
+        const user = await User.findOne({username: req.body.username}, function(err, docs){
+            cb(docs);
+        });
+        res.json( user );
+    }catch( err ) {
+        res.json({message: err});
+    }
+});
+
 router.post('/add' , async (req , res) => {
     const user = new User({
         username: req.body.username,
         password: req.body.password,
         email: req.body.email,
         phone: req.body.phone,
+        address: req.body.address,
+        ticketList: req.body.ticketList
     });
 
     try{
         const saveUser = await user.save();
-        res.json(saveUser);
+        res.json('dang ki tai khoan thanh cong');
     }catch( err ) {
         res.json({message: err});
     }
@@ -41,14 +54,14 @@ router.post('/add' , async (req , res) => {
 router.delete('/del/:userId' , async (req , res) => {
     try{
         const removeUser = await User.remove({_id: req.params.userId})
-        res.json(removeUser);
+        res.json('delete : ' + removeUser);
     }
     catch( err ) {
         res.json({message: err});
     }
 });
 
-router.patch('/upd/:userId' , async (req , res) => {
+router.post('/upd/:userId' , async (req , res) => {
     try{
         const updateUser = await User.updateOne(
             {_id: req.params.userId}, 

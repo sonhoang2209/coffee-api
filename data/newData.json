@@ -1,165 +1,13 @@
 [
     {
-        "name": "Latte Táo Lê Quế (Đá)",
-        "description": "Sự kết hợp giữa cà phê đậm đà với vị ngọt cay nhẹ của quế hòa quyện cùng vị chua dịu của táo lê tạo nên một thức uống tuyệt hảo, đầy thú vị.",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 0,
-                "items": [
-                    {
-                        "id": 2638,
-                        "code": "10040034",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    },
-                    {
-                        "id": 2639,
-                        "code": "10040035",
-                        "price": 6000,
-                        "price_str": "+ 6.000đ",
-                        "name": "Lớn",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            },
-            {
-                "group_id": 1,
-                "name": "Topping",
-                "description": "Chọn tối đa 2 loại",
-                "min": 0,
-                "max": 2,
-                "default_index": -1,
-                "items": [
-                    {
-                        "id": 1456,
-                        "code": "10100024",
-                        "price": 10000,
-                        "price_str": "+ 10.000đ",
-                        "name": "Extra foam",
-                        "min": null,
-                        "max": null
-                    },
-                    {
-                        "id": 196,
-                        "code": "10100003",
-                        "price": 10000,
-                        "price_str": "+ 10.000đ",
-                        "name": "Espresso (1shot)",
-                        "min": null,
-                        "max": null
-                    },
-                    {
-                        "id": 1667,
-                        "code": "10100016",
-                        "price": 10000,
-                        "price_str": "+ 10.000đ",
-                        "name": "Trân châu trắng",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
-        "images": [
-            "https://minio.thecoffeehouse.com/image/admin/1638267966_latte-tao-le-que-lanh.jpg"
-        ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1638267966_latte-tao-le-que-lanh_400x400.jpg",
-        "price": 39000,
-        "slug": null
-    },
-    {
-        "name": "Latte Táo Lê Quế (Nóng)",
-        "description": "Sự kết hợp giữa cà phê đậm đà với vị ngọt cay nhẹ của quế hòa quyện cùng vị chua dịu của táo lê tạo nên một thức uống tuyệt hảo, đầy thú vị.",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 0,
-                "items": [
-                    {
-                        "id": 2640,
-                        "code": "10040036",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            },
-            {
-                "group_id": 1,
-                "name": "Topping",
-                "description": "Chọn tối đa 2 loại",
-                "min": 0,
-                "max": 2,
-                "default_index": -1,
-                "items": [
-                    {
-                        "id": 196,
-                        "code": "10100003",
-                        "price": 10000,
-                        "price_str": "+ 10.000đ",
-                        "name": "Espresso (1shot)",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
-        "images": [
-            "https://minio.thecoffeehouse.com/image/admin/1638333813_latte-tao-le-que-nong.jpg"
-        ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1638333813_latte-tao-le-que-nong_400x400.jpg",
-        "price": 39000,
-        "slug": null
-    },
-    {
-        "name": "Latte Táo Lê Quế Chai Fresh 500ml",
-        "description": "Phiên bản Chai Fresh tiện lợi, với thức uống đậm đà, thú vị tuyệt hảo để cùng bạn tận hưởng những ngày cuối năm ấm áp và trọn vẹn.",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 0,
-                "items": [
-                    {
-                        "id": 2641,
-                        "code": "10040037",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
-        "images": [
-            "https://minio.thecoffeehouse.com/image/admin/1638596199_bottle-lattetaoleque-new.jpg"
-        ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1638596199_bottle-lattetaoleque-new_400x400.jpg",
-        "price": 109000,
-        "slug": null
-    },
-    {
         "name": "Cà Phê Sữa Đá",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1639377738_ca-phe-sua-da_400x400.jpg",
+        "price": 29000,
         "description": "Cà phê Đắk Lắk nguyên chất được pha phin truyền thống kết hợp với sữa đặc tạo nên hương vị đậm đà, hài hòa giữa vị ngọt đầu lưỡi và vị đắng thanh thoát nơi hậu vị.",
+        "images": [
+            "https://minio.thecoffeehouse.com/image/admin/1639377738_ca-phe-sua-da.jpg"
+        ],
+        "slug": "",
         "options": [
             {
                 "group_id": 0,
@@ -170,45 +18,61 @@
                 "default_index": 1,
                 "items": [
                     {
-                        "id": 180,
+                        "product_id": "180",
                         "code": "10020012",
                         "price": 0,
+                        "val": "Nhỏ",
+                        "localize": {
+                            "vi": "Nhỏ",
+                            "en": "Nhỏ"
+                        },
+                        "is_main": true,
                         "price_str": "+ 0đ",
                         "name": "Nhỏ",
-                        "min": null,
-                        "max": null
+                        "id": 180
                     },
                     {
-                        "id": 179,
+                        "product_id": "179",
                         "code": "10020011",
                         "price": 6000,
+                        "val": "Vừa",
+                        "localize": {
+                            "vi": "Vừa",
+                            "en": "Vừa"
+                        },
+                        "is_main": true,
                         "price_str": "+ 6.000đ",
                         "name": "Vừa",
-                        "min": null,
-                        "max": null
+                        "id": 179
                     },
                     {
-                        "id": 10020222,
                         "code": "10020222",
+                        "localize": {
+                            "en": "Lớn",
+                            "vi": "Lớn"
+                        },
                         "price": 10000,
+                        "product_id": 10020222,
+                        "val": "Lớn",
+                        "is_main": true,
                         "price_str": "+ 10.000đ",
                         "name": "Lớn",
-                        "min": null,
-                        "max": null
+                        "id": 10020222
                     }
                 ]
             }
         ],
-        "images": [
-            "https://minio.thecoffeehouse.com/image/admin/caphesuada-moi_847396.jpg"
-        ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/caphesuada-moi_847396_400x400.jpg",
-        "price": 12000,
-        "slug": null
+        "type_id": 1
     },
     {
         "name": "Cà Phê Sữa Nóng",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1639377770_cfsua-nong_400x400.jpg",
+        "price": 35000,
         "description": "Cà phê được pha phin truyền thống kết hợp với sữa đặc tạo nên hương vị đậm đà, hài hòa giữa vị ngọt đầu lưỡi và vị đắng thanh thoát nơi hậu vị.",
+        "images": [
+            "https://minio.thecoffeehouse.com/image/admin/1639377770_cfsua-nong.jpg"
+        ],
+        "slug": "",
         "options": [
             {
                 "group_id": 0,
@@ -219,27 +83,33 @@
                 "default_index": 0,
                 "items": [
                     {
-                        "id": 10020223,
+                        "product_id": 10020223,
                         "code": "10020223",
                         "price": 0,
+                        "val": "Vừa",
+                        "localize": {
+                            "vi": "Vừa",
+                            "en": "Vừa"
+                        },
+                        "is_main": true,
                         "price_str": "+ 0đ",
                         "name": "Vừa",
-                        "min": null,
-                        "max": null
+                        "id": 10020223
                     }
                 ]
             }
         ],
-        "images": [
-            "https://minio.thecoffeehouse.com/image/admin/cfsua-bacsiu_nong-(1)_139962.jpg"
-        ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/cfsua-bacsiu_nong-(1)_139962_400x400.jpg",
-        "price": 12000,
-        "slug": null
+        "type_id": 1
     },
     {
         "name": "Bạc Sỉu",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1639377904_bac-siu_400x400.jpg",
+        "price": 29000,
         "description": "Bạc sỉu chính là \"Ly sữa trắng kèm một chút cà phê\". Thức uống này rất phù hợp những ai vừa muốn trải nghiệm chút vị đắng của cà phê vừa muốn thưởng thức vị ngọt béo ngậy từ sữa.",
+        "images": [
+            "https://minio.thecoffeehouse.com/image/admin/1639377904_bac-siu.jpg"
+        ],
+        "slug": "",
         "options": [
             {
                 "group_id": 0,
@@ -250,45 +120,61 @@
                 "default_index": 1,
                 "items": [
                     {
-                        "id": 10020006,
+                        "product_id": 10020006,
                         "code": "10020006",
                         "price": 0,
+                        "val": "Nhỏ",
+                        "localize": {
+                            "vi": "Nhỏ",
+                            "en": "Nhỏ"
+                        },
+                        "is_main": true,
                         "price_str": "+ 0đ",
                         "name": "Nhỏ",
-                        "min": null,
-                        "max": null
+                        "id": 10020006
                     },
                     {
-                        "id": 10020005,
+                        "product_id": 10020005,
                         "code": "10020005",
                         "price": 6000,
+                        "val": "Vừa",
+                        "localize": {
+                            "vi": "Vừa",
+                            "en": "Vừa"
+                        },
+                        "is_main": true,
                         "price_str": "+ 6.000đ",
                         "name": "Vừa",
-                        "min": null,
-                        "max": null
+                        "id": 10020005
                     },
                     {
-                        "id": 10020226,
                         "code": "10020226",
+                        "localize": {
+                            "en": "Lớn",
+                            "vi": "Lớn"
+                        },
                         "price": 10000,
+                        "product_id": 10020226,
+                        "val": "Lớn",
+                        "is_main": true,
                         "price_str": "+ 10.000đ",
                         "name": "Lớn",
-                        "min": null,
-                        "max": null
+                        "id": 10020226
                     }
                 ]
             }
         ],
-        "images": [
-            "https://minio.thecoffeehouse.com/image/admin/bacsiu-moi_532206.jpg"
-        ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/bacsiu-moi_532206_400x400.jpg",
-        "price": 12000,
-        "slug": null
+        "type_id": 1
     },
     {
         "name": "Bạc Sỉu Nóng",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1639377926_bacsiunong_400x400.jpg",
+        "price": 35000,
         "description": "Bạc sỉu chính là \"Ly sữa trắng kèm một chút cà phê\". Thức uống này rất phù hợp những ai vừa muốn trải nghiệm chút vị đắng của cà phê vừa muốn thưởng thức vị ngọt béo ngậy từ sữa.",
+        "images": [
+            "https://minio.thecoffeehouse.com/image/admin/1639377926_bacsiunong.jpg"
+        ],
+        "slug": "",
         "options": [
             {
                 "group_id": 0,
@@ -299,27 +185,33 @@
                 "default_index": 0,
                 "items": [
                     {
-                        "id": 10020227,
                         "code": "10020227",
+                        "localize": {
+                            "en": "Nhỏ",
+                            "vi": "Nhỏ"
+                        },
                         "price": 0,
+                        "product_id": 10020227,
+                        "val": "Vừa",
+                        "is_main": true,
                         "price_str": "+ 0đ",
                         "name": "Vừa",
-                        "min": null,
-                        "max": null
+                        "id": 10020227
                     }
                 ]
             }
         ],
-        "images": [
-            "https://minio.thecoffeehouse.com/image/admin/cfsua-bacsiu_nong-(1)_190838.jpg"
-        ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/cfsua-bacsiu_nong-(1)_190838_400x400.jpg",
-        "price": 12000,
-        "slug": null
+        "type_id": 1
     },
     {
         "name": "Cà Phê Đen Đá",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1639377798_ca-phe-den-da_400x400.jpg",
+        "price": 29000,
         "description": "Không ngọt ngào như Bạc sỉu hay Cà phê sữa, Cà phê đen mang trong mình phong vị trầm lắng, thi vị hơn. Người ta thường phải ngồi rất lâu mới cảm nhận được hết hương thơm ngào ngạt, phảng phất mùi cacao và cái đắng mượt mà trôi tuột xuống vòm họng.",
+        "images": [
+            "https://minio.thecoffeehouse.com/image/admin/1639377797_ca-phe-den-da.jpg"
+        ],
+        "slug": "",
         "options": [
             {
                 "group_id": 0,
@@ -330,417 +222,612 @@
                 "default_index": 1,
                 "items": [
                     {
-                        "id": 10020008,
+                        "product_id": 10020008,
                         "code": "10020008",
                         "price": 0,
+                        "val": "Nhỏ",
+                        "localize": {
+                            "vi": "Nhỏ",
+                            "en": "Nhỏ"
+                        },
+                        "is_main": true,
                         "price_str": "+ 0đ",
                         "name": "Nhỏ",
-                        "min": null,
-                        "max": null
+                        "id": 10020008
                     },
                     {
-                        "id": 10020007,
+                        "product_id": 10020007,
                         "code": "10020007",
                         "price": 6000,
+                        "val": "Vừa",
+                        "localize": {
+                            "vi": "Vừa",
+                            "en": "Vừa"
+                        },
+                        "is_main": true,
                         "price_str": "+ 6.000đ",
                         "name": "Vừa",
-                        "min": null,
-                        "max": null
+                        "id": 10020007
                     },
                     {
-                        "id": 10020224,
                         "code": "10020224",
+                        "localize": {
+                            "en": "Lớn",
+                            "vi": "Lớn"
+                        },
                         "price": 10000,
+                        "product_id": 10020224,
+                        "val": "Lớn",
+                        "is_main": true,
                         "price_str": "+ 10.000đ",
                         "name": "Lớn",
-                        "min": null,
-                        "max": null
+                        "id": 10020224
                     }
                 ]
             }
         ],
+        "type_id": 1
+    },
+    {
+        "name": "Cà Phê Đen Nóng",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1639377816_ca-phe-den-nong_400x400.jpg",
+        "price": 35000,
+        "description": "Không ngọt ngào như Bạc sỉu hay Cà phê sữa, Cà phê đen mang trong mình phong vị trầm lắng, thi vị hơn. Người ta thường phải ngồi rất lâu mới cảm nhận được hết hương thơm ngào ngạt, phảng phất mùi cacao và cái đắng mượt mà trôi tuột xuống vòm họng.",
         "images": [
-            "https://minio.thecoffeehouse.com/image/admin/caphedenda-moi_684880.jpg"
+            "https://minio.thecoffeehouse.com/image/admin/1639377816_ca-phe-den-nong.jpg"
         ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/caphedenda-moi_684880_400x400.jpg",
-        "price": 12000,
-        "slug": null
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "product_id": 10020225,
+                        "code": "10020225",
+                        "price": 0,
+                        "val": "Vừa",
+                        "localize": {
+                            "vi": "Vừa",
+                            "en": "Vừa"
+                        },
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 10020225
+                    }
+                ]
+            }
+        ],
+        "type_id": 1
+    },
+    {
+        "name": "Latte Táo Lê Quế (Đá)",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1638267966_latte-tao-le-que-lanh_400x400.jpg",
+        "price": 59000,
+        "description": "Sự kết hợp giữa cà phê đậm đà với vị ngọt cay nhẹ của quế hòa quyện cùng vị chua dịu của táo lê tạo nên một thức uống tuyệt hảo, đầy thú vị.",
+        "images": [
+            "https://minio.thecoffeehouse.com/image/admin/1638267966_latte-tao-le-que-lanh.jpg"
+        ],
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "code": "10040034",
+                        "price": 0,
+                        "product_id": 2638,
+                        "val": "Vừa",
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 2638
+                    },
+                    {
+                        "code": "10040035",
+                        "price": 6000,
+                        "product_id": 2639,
+                        "localize": {
+                            "en": "Lớn",
+                            "vi": "Lớn"
+                        },
+                        "val": "Lớn",
+                        "is_main": true,
+                        "price_str": "+ 6.000đ",
+                        "name": "Lớn",
+                        "id": 2639
+                    }
+                ]
+            },
+            {
+                "group_id": 1,
+                "name": "Topping",
+                "description": "Chọn tối đa 2 loại",
+                "min": 0,
+                "max": 2,
+                "default_index": -1,
+                "items": [
+                    {
+                        "product_id": 1456,
+                        "product_name": "Extra foam",
+                        "code": "10100024",
+                        "price": 10000,
+                        "type": 3,
+                        "price_str": "+ 10.000đ",
+                        "name": "Extra foam",
+                        "id": 1456
+                    },
+                    {
+                        "product_id": 196,
+                        "product_name": "Espresso (1shot)",
+                        "code": "10100003",
+                        "price": 10000,
+                        "type": 3,
+                        "price_str": "+ 10.000đ",
+                        "name": "Espresso (1shot)",
+                        "id": 196
+                    },
+                    {
+                        "product_id": 1667,
+                        "product_name": "Trân châu trắng",
+                        "code": "10100016",
+                        "price": 10000,
+                        "type": 3,
+                        "price_str": "+ 10.000đ",
+                        "name": "Trân châu trắng",
+                        "id": 1667
+                    }
+                ]
+            }
+        ],
+        "type_id": 1
+    },
+    {
+        "name": "Latte Táo Lê Quế (Nóng)",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1638333813_latte-tao-le-que-nong_400x400.jpg",
+        "price": 59000,
+        "description": "Sự kết hợp giữa cà phê đậm đà với vị ngọt cay nhẹ của quế hòa quyện cùng vị chua dịu của táo lê tạo nên một thức uống tuyệt hảo, đầy thú vị.",
+        "images": [
+            "https://minio.thecoffeehouse.com/image/admin/1638333813_latte-tao-le-que-nong.jpg"
+        ],
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "code": "10040036",
+                        "price": 0,
+                        "product_id": 2640,
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "val": "Vừa",
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 2640
+                    }
+                ]
+            },
+            {
+                "group_id": 1,
+                "name": "Topping",
+                "description": "Chọn tối đa 2 loại",
+                "min": 0,
+                "max": 2,
+                "default_index": -1,
+                "items": [
+                    {
+                        "product_id": 196,
+                        "product_name": "Espresso (1shot)",
+                        "code": "10100003",
+                        "price": 10000,
+                        "type": 3,
+                        "price_str": "+ 10.000đ",
+                        "name": "Espresso (1shot)",
+                        "id": 196
+                    }
+                ]
+            }
+        ],
+        "type_id": 1
+    },
+    {
+        "name": "Latte Táo Lê Quế Chai Fresh 500ml",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1638596199_bottle-lattetaoleque-new_400x400.jpg",
+        "price": 109000,
+        "description": "Phiên bản Chai Fresh tiện lợi, với thức uống đậm đà, thú vị tuyệt hảo để cùng bạn tận hưởng những ngày cuối năm ấm áp và trọn vẹn.",
+        "images": [
+            "https://minio.thecoffeehouse.com/image/admin/1638596199_bottle-lattetaoleque-new.jpg"
+        ],
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "code": "10040037",
+                        "price": 0,
+                        "product_id": 2641,
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "val": "Vừa",
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 2641
+                    }
+                ]
+            }
+        ],
+        "type_id": 1
+    },
+    {
+        "name": "Cà Phê Sữa Đá Chai Fresh 250ML",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/BottleCFSD_496652_400x400.jpg",
+        "price": 79000,
+        "description": "Vẫn là hương vị cà phê sữa đậm đà quen thuộc của The Coffee House nhưng khoác lên mình một chiếc áo mới tiện lợi hơn, tiết kiệm hơn phù hợp với bình thường mới, giúp bạn tận hưởng một ngày dài trọn vẹn.\n*Sản phẩm dùng ngon nhất trong ngày.\n*Sản phẩm mặc định mức đường và không đá.",
+        "images": [
+            "https://minio.thecoffeehouse.com/image/admin/BottleCFSD_496652.jpg",
+            "https://minio.thecoffeehouse.com/image/admin/1633146193_photo-2021-10-02-10-42-41.jpg",
+            "https://minio.thecoffeehouse.com/image/admin/1633146193_photo-2021-10-02-10-42-46.jpg",
+            "https://minio.thecoffeehouse.com/image/admin/1633146194_photo-2021-10-02-10-42-28.jpg"
+        ],
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "code": "10020399",
+                        "price": 0,
+                        "product_id": 2604,
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "val": "Vừa",
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 2604
+                    }
+                ]
+            }
+        ],
+        "type_id": 1
     },
     {
         "name": "Trà Sữa Masala Chai Trân Châu (Đá)",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1638332240_tra-sua-chai-tran-chau-lanh_400x400.jpg",
+        "price": 59000,
         "description": "Sự kết hợp hài hòa giữa trà đen mạnh mẽ, sữa ngọt thơm béo với các gia vị thảo mộc ấm nóng từ Ấn Độ, có thêm trân châu mang đến cho bạn một hương vị trà sữa đặc biệt.",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 0,
-                "items": [
-                    {
-                        "id": 2633,
-                        "code": "10010156",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    },
-                    {
-                        "id": 2634,
-                        "code": "10010157",
-                        "price": 6000,
-                        "price_str": "+ 6.000đ",
-                        "name": "Lớn",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            },
-            {
-                "group_id": 1,
-                "name": "Topping",
-                "description": "Chọn tối đa 2 loại",
-                "min": 0,
-                "max": 2,
-                "default_index": -1,
-                "items": [
-                    {
-                        "id": 1456,
-                        "code": "10100024",
-                        "price": 10000,
-                        "price_str": "+ 10.000đ",
-                        "name": "Extra foam",
-                        "min": null,
-                        "max": null
-                    },
-                    {
-                        "id": 196,
-                        "code": "10100003",
-                        "price": 10000,
-                        "price_str": "+ 10.000đ",
-                        "name": "Espresso (1shot)",
-                        "min": null,
-                        "max": null
-                    },
-                    {
-                        "id": 1667,
-                        "code": "10100016",
-                        "price": 10000,
-                        "price_str": "+ 10.000đ",
-                        "name": "Trân châu trắng",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
         "images": [
             "https://minio.thecoffeehouse.com/image/admin/1638332240_tra-sua-chai-tran-chau-lanh.jpg"
         ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1638332240_tra-sua-chai-tran-chau-lanh_400x400.jpg",
-        "price": 39000,
-        "slug": null
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "code": "10010156",
+                        "price": 0,
+                        "product_id": 2633,
+                        "val": "Vừa",
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 2633
+                    },
+                    {
+                        "code": "10010157",
+                        "price": 6000,
+                        "product_id": 2634,
+                        "localize": {
+                            "en": "Lớn",
+                            "vi": "Lớn"
+                        },
+                        "val": "Lớn",
+                        "is_main": true,
+                        "price_str": "+ 6.000đ",
+                        "name": "Lớn",
+                        "id": 2634
+                    }
+                ]
+            },
+            {
+                "group_id": 1,
+                "name": "Topping",
+                "description": "Chọn tối đa 2 loại",
+                "min": 0,
+                "max": 2,
+                "default_index": -1,
+                "items": [
+                    {
+                        "product_id": 1456,
+                        "product_name": "Extra foam",
+                        "code": "10100024",
+                        "price": 10000,
+                        "type": 3,
+                        "price_str": "+ 10.000đ",
+                        "name": "Extra foam",
+                        "id": 1456
+                    },
+                    {
+                        "product_id": 196,
+                        "product_name": "Espresso (1shot)",
+                        "code": "10100003",
+                        "price": 10000,
+                        "type": 3,
+                        "price_str": "+ 10.000đ",
+                        "name": "Espresso (1shot)",
+                        "id": 196
+                    },
+                    {
+                        "product_id": 1667,
+                        "product_name": "Trân châu trắng",
+                        "code": "10100016",
+                        "price": 10000,
+                        "type": 3,
+                        "price_str": "+ 10.000đ",
+                        "name": "Trân châu trắng",
+                        "id": 1667
+                    }
+                ]
+            }
+        ],
+        "type_id": 2
     },
     {
         "name": "Trà Sữa Masala Chai (Nóng)",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1638332229_tra-sua-chai-nong_400x400.jpg",
+        "price": 59000,
         "description": "Sự kết hợp hài hòa giữa trà đen mạnh mẽ, sữa ngọt thơm béo với các gia vị thảo mộc ấm nóng từ Ấn Độ mang đến cho bạn một hương vị trà sữa đặc biệt.",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 0,
-                "items": [
-                    {
-                        "id": 2635,
-                        "code": "10010158",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            },
-            {
-                "group_id": 1,
-                "name": "Topping",
-                "description": "Chọn tối đa 2 loại",
-                "min": 0,
-                "max": 2,
-                "default_index": -1,
-                "items": [
-                    {
-                        "id": 196,
-                        "code": "10100003",
-                        "price": 10000,
-                        "price_str": "+ 10.000đ",
-                        "name": "Espresso (1shot)",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
         "images": [
             "https://minio.thecoffeehouse.com/image/admin/1638332229_tra-sua-chai-nong.jpg"
         ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1638332229_tra-sua-chai-nong_400x400.jpg",
-        "price": 39000,
-        "slug": null
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "code": "10010158",
+                        "price": 0,
+                        "product_id": 2635,
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "val": "Vừa",
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 2635
+                    }
+                ]
+            },
+            {
+                "group_id": 1,
+                "name": "Topping",
+                "description": "Chọn tối đa 2 loại",
+                "min": 0,
+                "max": 2,
+                "default_index": -1,
+                "items": [
+                    {
+                        "product_id": 196,
+                        "product_name": "Espresso (1shot)",
+                        "code": "10100003",
+                        "price": 10000,
+                        "type": 3,
+                        "price_str": "+ 10.000đ",
+                        "name": "Espresso (1shot)",
+                        "id": 196
+                    }
+                ]
+            }
+        ],
+        "type_id": 2
     },
     {
         "name": "Trà Đào Cam Sả - Đá",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/tra-dao-cam-xa_668678_400x400.jpg",
+        "price": 45000,
         "description": "Vị thanh ngọt của đào, vị chua dịu của Cam Vàng nguyên vỏ, vị chát của trà đen tươi được ủ mới mỗi 4 tiếng, cùng hương thơm nồng đặc trưng của sả chính là điểm sáng làm nên sức hấp dẫn của thức uống này.",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 1,
-                "items": [
-                    {
-                        "id": 10010004,
-                        "code": "10010004",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Nhỏ",
-                        "min": null,
-                        "max": null
-                    },
-                    {
-                        "id": 10010003,
-                        "code": "10010003",
-                        "price": 7000,
-                        "price_str": "+ 7.000đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    },
-                    {
-                        "id": 10010057,
-                        "code": "10010057",
-                        "price": 14000,
-                        "price_str": "+ 14.000đ",
-                        "name": "Lớn",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            },
-            {
-                "group_id": 1,
-                "name": "Topping",
-                "description": "Chọn tối đa 2 loại",
-                "min": 0,
-                "max": 2,
-                "default_index": -1,
-                "items": [
-                    {
-                        "id": 539,
-                        "code": "10100017",
-                        "price": 10000,
-                        "price_str": "+ 10.000đ",
-                        "name": "Đào ngâm",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
         "images": [
             "https://minio.thecoffeehouse.com/image/admin/tra-dao-cam-xa_668678.jpg"
         ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/tra-dao-cam-xa_668678_400x400.jpg",
-        "price": 39000,
-        "slug": null
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 1,
+                "items": [
+                    {
+                        "product_id": 10010004,
+                        "code": "10010004",
+                        "price": 0,
+                        "val": "Nhỏ",
+                        "localize": {
+                            "vi": "Nhỏ",
+                            "en": "Nhỏ"
+                        },
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Nhỏ",
+                        "id": 10010004
+                    },
+                    {
+                        "product_id": 10010003,
+                        "code": "10010003",
+                        "price": 7000,
+                        "val": "Vừa",
+                        "localize": {
+                            "vi": "Vừa",
+                            "en": "Vừa"
+                        },
+                        "is_main": true,
+                        "price_str": "+ 7.000đ",
+                        "name": "Vừa",
+                        "id": 10010003
+                    },
+                    {
+                        "code": "10010057",
+                        "localize": {
+                            "en": "Lớn",
+                            "vi": "Lớn"
+                        },
+                        "price": 14000,
+                        "product_id": 10010057,
+                        "val": "Lớn",
+                        "is_main": true,
+                        "price_str": "+ 14.000đ",
+                        "name": "Lớn",
+                        "id": 10010057
+                    }
+                ]
+            },
+            {
+                "group_id": 1,
+                "name": "Topping",
+                "description": "Chọn tối đa 2 loại",
+                "min": 0,
+                "max": 2,
+                "default_index": -1,
+                "items": [
+                    {
+                        "product_id": 539,
+                        "product_name": "Đào ngâm",
+                        "code": "10100017",
+                        "price": 10000,
+                        "type": 3,
+                        "price_str": "+ 10.000đ",
+                        "name": "Đào ngâm",
+                        "id": 539
+                    }
+                ]
+            }
+        ],
+        "type_id": 2
     },
     {
         "name": "Trà Đào Cam Sả - Nóng",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/tdcs-nong_288997_400x400.jpg",
+        "price": 52000,
         "description": "Vị thanh ngọt của đào, vị chua dịu của Cam Vàng nguyên vỏ, vị chát của trà đen tươi được ủ mới mỗi 4 tiếng, cùng hương thơm nồng đặc trưng của sả chính là điểm sáng làm nên sức hấp dẫn của thức uống này.",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 0,
-                "items": [
-                    {
-                        "id": 10010042,
-                        "code": "10010042",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            },
-            {
-                "group_id": 1,
-                "name": "Topping",
-                "description": "Chọn tối đa 2 loại",
-                "min": 0,
-                "max": 2,
-                "default_index": -1,
-                "items": [
-                    {
-                        "id": 539,
-                        "code": "10100017",
-                        "price": 10000,
-                        "price_str": "+ 10.000đ",
-                        "name": "Đào ngâm",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
         "images": [
             "https://minio.thecoffeehouse.com/image/admin/tdcs-nong_288997.jpg"
         ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/tdcs-nong_288997_400x400.jpg",
-        "price": 39000,
-        "slug": null
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "product_id": 10010042,
+                        "code": "10010042",
+                        "price": 0,
+                        "val": "Vừa",
+                        "localize": {
+                            "vi": "Vừa"
+                        },
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 10010042
+                    }
+                ]
+            },
+            {
+                "group_id": 1,
+                "name": "Topping",
+                "description": "Chọn tối đa 2 loại",
+                "min": 0,
+                "max": 2,
+                "default_index": -1,
+                "items": [
+                    {
+                        "product_id": 539,
+                        "product_name": "Đào ngâm",
+                        "code": "10100017",
+                        "price": 10000,
+                        "type": 3,
+                        "price_str": "+ 10.000đ",
+                        "name": "Đào ngâm",
+                        "id": 539
+                    }
+                ]
+            }
+        ],
+        "type_id": 2
     },
     {
         "name": "Trà Hạt Sen - Đá",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/tra-sen_905594_400x400.jpg",
+        "price": 45000,
         "description": "Nền trà oolong hảo hạng kết hợp cùng hạt sen tươi, bùi bùi và lớp foam cheese béo ngậy. Trà hạt sen là thức uống thanh mát, nhẹ nhàng phù hợp cho cả buổi sáng và chiều tối.",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 1,
-                "items": [
-                    {
-                        "id": 1854,
-                        "code": "10010043",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Nhỏ",
-                        "min": null,
-                        "max": null
-                    },
-                    {
-                        "id": 1855,
-                        "code": "10010044",
-                        "price": 7000,
-                        "price_str": "+ 7.000đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    },
-                    {
-                        "id": 1911,
-                        "code": "10010056",
-                        "price": 14000,
-                        "price_str": "+ 14.000đ",
-                        "name": "Lớn",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            },
-            {
-                "group_id": 1,
-                "name": "Topping",
-                "description": "Chọn tối đa 2 loại",
-                "min": 0,
-                "max": 2,
-                "default_index": -1,
-                "items": [
-                    {
-                        "id": 1456,
-                        "code": "10100024",
-                        "price": 10000,
-                        "price_str": "+ 10.000đ",
-                        "name": "Extra foam",
-                        "min": null,
-                        "max": null
-                    },
-                    {
-                        "id": 10100020,
-                        "code": "10100020",
-                        "price": 10000,
-                        "price_str": "+ 10.000đ",
-                        "name": "Sen ngâm",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
         "images": [
             "https://minio.thecoffeehouse.com/image/admin/tra-sen_905594.jpg"
         ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/tra-sen_905594_400x400.jpg",
-        "price": 39000,
-        "slug": null
-    },
-    {
-        "name": "Trà Hạt Sen - Nóng",
-        "description": "Nền trà oolong hảo hạng kết hợp cùng hạt sen tươi, bùi bùi thơm ngon. Trà hạt sen là thức uống thanh mát, nhẹ nhàng phù hợp cho cả buổi sáng và chiều tối.",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 0,
-                "items": [
-                    {
-                        "id": 1859,
-                        "code": "10010048",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            },
-            {
-                "group_id": 1,
-                "name": "Topping",
-                "description": "Chọn tối đa 2 loại",
-                "min": 0,
-                "max": 2,
-                "default_index": -1,
-                "items": [
-                    {
-                        "id": 10100020,
-                        "code": "10100020",
-                        "price": 10000,
-                        "price_str": "+ 10.000đ",
-                        "name": "Sen ngâm",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
-        "images": [
-            "https://minio.thecoffeehouse.com/image/admin/tra-sen-nong_025153.jpg"
-        ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/tra-sen-nong_025153_400x400.jpg",
-        "price": 39000,
-        "slug": null
-    },
-    {
-        "name": "Trà Phúc Bồn Tử",
-        "description": "Quả Phúc Bồn Tử hoàn toàn tự nhiên, được các barista Nhà kết hợp một cách đầy tinh tế cùng trà Oolong và cam vàng tạo ra một dư vị hoàn toàn tươi mới. Mát lạnh ngay từ ngụm đầu tiên, đọng lại cuối cùng là hương vị trà thơm lừng và vị ngọt thanh, chua dịu khó quên của trái phúc bồn tử.",
+        "slug": "",
         "options": [
             {
                 "group_id": 0,
@@ -751,31 +838,46 @@
                 "default_index": 1,
                 "items": [
                     {
-                        "id": 10010068,
-                        "code": "10010068",
+                        "code": "10010043",
                         "price": 0,
+                        "product_id": 1854,
+                        "val": "Nhỏ",
+                        "localize": {
+                            "en": "Size Nhỏ",
+                            "vi": "Size Nhỏ"
+                        },
+                        "is_main": true,
                         "price_str": "+ 0đ",
                         "name": "Nhỏ",
-                        "min": null,
-                        "max": null
+                        "id": 1854
                     },
                     {
-                        "id": 10010067,
-                        "code": "10010067",
-                        "price": 5000,
-                        "price_str": "+ 5.000đ",
+                        "code": "10010044",
+                        "price": 7000,
+                        "product_id": 1855,
+                        "val": "Vừa",
+                        "localize": {
+                            "en": "Size Vừa",
+                            "vi": "Size Vừa"
+                        },
+                        "is_main": true,
+                        "price_str": "+ 7.000đ",
                         "name": "Vừa",
-                        "min": null,
-                        "max": null
+                        "id": 1855
                     },
                     {
-                        "id": 10010066,
-                        "code": "10010066",
-                        "price": 10000,
-                        "price_str": "+ 10.000đ",
+                        "code": "10010056",
+                        "price": 14000,
+                        "product_id": 1911,
+                        "val": "Lớn",
+                        "localize": {
+                            "en": "Size Lớn",
+                            "vi": "Size Lớn"
+                        },
+                        "is_main": true,
+                        "price_str": "+ 14.000đ",
                         "name": "Lớn",
-                        "min": null,
-                        "max": null
+                        "id": 1911
                     }
                 ]
             },
@@ -788,95 +890,181 @@
                 "default_index": -1,
                 "items": [
                     {
-                        "id": 1667,
-                        "code": "10100016",
+                        "product_id": 1456,
+                        "product_name": "Extra foam",
+                        "code": "10100024",
                         "price": 10000,
+                        "type": 3,
                         "price_str": "+ 10.000đ",
-                        "name": "Trân châu trắng",
-                        "min": null,
-                        "max": null
+                        "name": "Extra foam",
+                        "id": 1456
+                    },
+                    {
+                        "product_id": 10100020,
+                        "product_name": "Sen ngâm",
+                        "code": "10100020",
+                        "price": 10000,
+                        "type": 3,
+                        "price_str": "+ 10.000đ",
+                        "name": "Sen ngâm",
+                        "id": 10100020
                     }
                 ]
             }
         ],
+        "type_id": 2
+    },
+    {
+        "name": "Trà Hạt Sen - Nóng",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/tra-sen-nong_025153_400x400.jpg",
+        "price": 52000,
+        "description": "Nền trà oolong hảo hạng kết hợp cùng hạt sen tươi, bùi bùi thơm ngon. Trà hạt sen là thức uống thanh mát, nhẹ nhàng phù hợp cho cả buổi sáng và chiều tối.",
+        "images": [
+            "https://minio.thecoffeehouse.com/image/admin/tra-sen-nong_025153.jpg"
+        ],
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "code": "10010048",
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "price": 0,
+                        "product_id": 1859,
+                        "val": "Vừa",
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 1859
+                    }
+                ]
+            },
+            {
+                "group_id": 1,
+                "name": "Topping",
+                "description": "Chọn tối đa 2 loại",
+                "min": 0,
+                "max": 2,
+                "default_index": -1,
+                "items": [
+                    {
+                        "product_id": 10100020,
+                        "product_name": "Sen ngâm",
+                        "code": "10100020",
+                        "price": 10000,
+                        "type": 3,
+                        "price_str": "+ 10.000đ",
+                        "name": "Sen ngâm",
+                        "id": 10100020
+                    }
+                ]
+            }
+        ],
+        "type_id": 2
+    },
+    {
+        "name": "Trà Phúc Bồn Tử",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/tra-pbt_728279_400x400.jpg",
+        "price": 50000,
+        "description": "Quả Phúc Bồn Tử hoàn toàn tự nhiên, được các barista Nhà kết hợp một cách đầy tinh tế cùng trà Oolong và cam vàng tạo ra một dư vị hoàn toàn tươi mới. Mát lạnh ngay từ ngụm đầu tiên, đọng lại cuối cùng là hương vị trà thơm lừng và vị ngọt thanh, chua dịu khó quên của trái phúc bồn tử.",
         "images": [
             "https://minio.thecoffeehouse.com/image/admin/tra-pbt_728279.jpg"
         ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/tra-pbt_728279_400x400.jpg",
-        "price": 39000,
-        "slug": null
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 1,
+                "items": [
+                    {
+                        "code": "10010068",
+                        "localize": {
+                            "en": "Nhỏ",
+                            "vi": "Nhỏ"
+                        },
+                        "price": 0,
+                        "product_id": 10010068,
+                        "val": "Nhỏ",
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Nhỏ",
+                        "id": 10010068
+                    },
+                    {
+                        "code": "10010067",
+                        "localize": {
+                            "en": "\bVừa",
+                            "vi": "\bVừa"
+                        },
+                        "price": 5000,
+                        "product_id": 10010067,
+                        "val": "Vừa",
+                        "is_main": true,
+                        "price_str": "+ 5.000đ",
+                        "name": "Vừa",
+                        "id": 10010067
+                    },
+                    {
+                        "code": "10010066",
+                        "localize": {
+                            "en": "\bLớn",
+                            "vi": "\bLớn"
+                        },
+                        "price": 10000,
+                        "product_id": 10010066,
+                        "val": "Lớn",
+                        "is_main": true,
+                        "price_str": "+ 10.000đ",
+                        "name": "Lớn",
+                        "id": 10010066
+                    }
+                ]
+            },
+            {
+                "group_id": 1,
+                "name": "Topping",
+                "description": "Chọn tối đa 2 loại",
+                "min": 0,
+                "max": 2,
+                "default_index": -1,
+                "items": [
+                    {
+                        "product_id": 1667,
+                        "product_name": "Trân châu trắng",
+                        "code": "10100016",
+                        "price": 10000,
+                        "type": 3,
+                        "price_str": "+ 10.000đ",
+                        "name": "Trân châu trắng",
+                        "id": 1667
+                    }
+                ]
+            }
+        ],
+        "type_id": 2
     },
     {
         "name": "Trà Đen Macchiato",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/tra-den-matchiato_430281_400x400.jpg",
+        "price": 50000,
         "description": "Trà đen được ủ mới mỗi ngày, giữ nguyên được vị chát mạnh mẽ đặc trưng của lá trà, phủ bên trên là lớp Macchiato \"homemade\" bồng bềnh quyến rũ vị phô mai mặn mặn mà béo béo.",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 0,
-                "items": [
-                    {
-                        "id": 1420,
-                        "code": "10010023",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    },
-                    {
-                        "id": 1914,
-                        "code": "10010059",
-                        "price": 5000,
-                        "price_str": "+ 5.000đ",
-                        "name": "Lớn",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            },
-            {
-                "group_id": 1,
-                "name": "Topping",
-                "description": "Chọn tối đa 2 loại",
-                "min": 0,
-                "max": 2,
-                "default_index": -1,
-                "items": [
-                    {
-                        "id": 1456,
-                        "code": "10100024",
-                        "price": 10000,
-                        "price_str": "+ 10.000đ",
-                        "name": "Extra foam",
-                        "min": null,
-                        "max": null
-                    },
-                    {
-                        "id": 1667,
-                        "code": "10100016",
-                        "price": 10000,
-                        "price_str": "+ 10.000đ",
-                        "name": "Trân châu trắng",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
         "images": [
             "https://minio.thecoffeehouse.com/image/admin/tra-den-matchiato_430281.jpg"
         ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/tra-den-matchiato_430281_400x400.jpg",
-        "price": 39000,
-        "slug": null
-    },
-    {
-        "name": "Cà Phê Đá Xay-Lạnh",
-        "description": "Một phiên bản \"upgrade\" từ ly cà phê sữa quen thuộc, nhưng lại tỉnh táo và tươi mát hơn bởi lớp đá xay đi kèm. Nhấp 1 ngụm cà phê đá xay là thấy đã, ngụm thứ hai thêm tỉnh táo và cứ thế lôi cuốn bạn đến ngụm cuối cùng.",
+        "slug": "",
         "options": [
             {
                 "group_id": 0,
@@ -887,102 +1075,32 @@
                 "default_index": 0,
                 "items": [
                     {
-                        "id": 2198,
-                        "code": "10030029",
+                        "code": "10010023",
                         "price": 0,
+                        "product_id": 1420,
+                        "val": "Vừa",
+                        "localize": {
+                            "en": null,
+                            "vi": "Size Vừa"
+                        },
+                        "is_main": true,
                         "price_str": "+ 0đ",
                         "name": "Vừa",
-                        "min": null,
-                        "max": null
+                        "id": 1420
                     },
                     {
-                        "id": 2199,
-                        "code": "10030028",
-                        "price": 6000,
-                        "price_str": "+ 6.000đ",
+                        "code": "10010059",
+                        "price": 5000,
+                        "product_id": 1914,
+                        "val": "Lớn",
+                        "localize": {
+                            "en": null,
+                            "vi": "Lớn"
+                        },
+                        "is_main": true,
+                        "price_str": "+ 5.000đ",
                         "name": "Lớn",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
-        "images": [
-            "https://minio.thecoffeehouse.com/image/admin/cf-da-xay-(1)_158038.jpg"
-        ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/cf-da-xay-(1)_158038_400x400.jpg",
-        "price": 59000,
-        "slug": null
-    },
-    {
-        "name": "Cookie Đá Xay",
-        "description": "Những mẩu bánh cookies giòn rụm kết hợp ăn ý với sữa tươi, kem tươi béo ngọt và đá xay mát lành, đem đến cảm giác lạ miệng gây thích thú và không thể cưỡng lại. Một món uống phá cách dễ thương đầy mê hoặc.",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 0,
-                "items": [
-                    {
-                        "id": 10030003,
-                        "code": "10030003",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    },
-                    {
-                        "id": 10030018,
-                        "code": "10030018",
-                        "price": 6000,
-                        "price_str": "+ 6.000đ",
-                        "name": "Lớn",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
-        "images": [
-            "https://minio.thecoffeehouse.com/image/admin/1638170021_cookie-da-xay.jpg"
-        ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1638170021_cookie-da-xay_400x400.jpg",
-        "price": 59000,
-        "slug": null
-    },
-    {
-        "name": "Chocolate Đá Xay",
-        "description": "Sữa và kem tươi béo ngọt được “cá tính hoá” bởi vị chocolate/sô-cô-la đăng đắng. Dành cho các tín đồ hảo ngọt. Lựa chọn hàng đầu nếu bạn đang cần chút năng lượng tinh thần.",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 0,
-                "items": [
-                    {
-                        "id": 10030002,
-                        "code": "10030002",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    },
-                    {
-                        "id": 10030019,
-                        "code": "10030019",
-                        "price": 6000,
-                        "price_str": "+ 6.000đ",
-                        "name": "Lớn",
-                        "min": null,
-                        "max": null
+                        "id": 1914
                     }
                 ]
             },
@@ -995,218 +1113,635 @@
                 "default_index": -1,
                 "items": [
                     {
-                        "id": 10100018,
-                        "code": "10100018",
+                        "product_id": 1456,
+                        "product_name": "Extra foam",
+                        "code": "10100024",
                         "price": 10000,
+                        "type": 3,
                         "price_str": "+ 10.000đ",
-                        "name": "Sauce Chocolate",
-                        "min": null,
-                        "max": null
+                        "name": "Extra foam",
+                        "id": 1456
+                    },
+                    {
+                        "product_id": 1667,
+                        "product_name": "Trân châu trắng",
+                        "code": "10100016",
+                        "price": 10000,
+                        "type": 3,
+                        "price_str": "+ 10.000đ",
+                        "name": "Trân châu trắng",
+                        "id": 1667
                     }
                 ]
             }
         ],
+        "type_id": 2
+    },
+    {
+        "name": "Hồng Trà Sữa Trân Châu",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/hong-tra-sua-tran-chau_326977_400x400.jpg",
+        "price": 55000,
+        "description": "Thêm chút ngọt ngào cho ngày mới với hồng trà nguyên lá, sữa thơm ngậy được cân chỉnh với tỉ lệ hoàn hảo, cùng trân châu trắng dai giòn có sẵn để bạn tận hưởng từng ngụm trà sữa ngọt ngào thơm ngậy thiệt đã.",
+        "images": [
+            "https://minio.thecoffeehouse.com/image/admin/hong-tra-sua-tran-chau_326977.jpg"
+        ],
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "code": "10010134",
+                        "price": 0,
+                        "product_id": 2520,
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "val": "Vừa",
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 2520
+                    },
+                    {
+                        "code": "10010138",
+                        "price": 5000,
+                        "product_id": 2529,
+                        "val": "Lớn",
+                        "localize": {
+                            "en": null,
+                            "vi": "Lớn"
+                        },
+                        "is_main": true,
+                        "price_str": "+ 5.000đ",
+                        "name": "Lớn",
+                        "id": 2529
+                    }
+                ]
+            },
+            {
+                "group_id": 1,
+                "name": "Topping",
+                "description": "Chọn tối đa 2 loại",
+                "min": 0,
+                "max": 2,
+                "default_index": -1,
+                "items": [
+                    {
+                        "product_id": 1667,
+                        "product_name": "Trân châu trắng",
+                        "code": "10100016",
+                        "price": 10000,
+                        "type": 3,
+                        "price_str": "+ 10.000đ",
+                        "name": "Trân châu trắng",
+                        "id": 1667
+                    }
+                ]
+            }
+        ],
+        "type_id": 2
+    },
+    {
+        "name": "Hồng Trà Sữa Nóng",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/hong-tra-sua-nong_941687_400x400.jpg",
+        "price": 50000,
+        "description": "Từng ngụm trà chuẩn gu ấm áp, đậm đà beo béo bởi lớp sữa tươi chân ái hoà quyện.\n\nTrà đen nguyên lá âm ấm dịu nhẹ, quyện cùng lớp sữa thơm béo khó lẫn - hương vị ấm áp chuẩn gu trà, cho từng ngụm nhẹ nhàng, ngọt dịu lưu luyến mãi nơi cuống họng.",
+        "images": [
+            "https://minio.thecoffeehouse.com/image/admin/hong-tra-sua-nong_941687.jpg"
+        ],
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "code": "10010135",
+                        "price": 0,
+                        "product_id": 2519,
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "val": "Vừa",
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 2519
+                    }
+                ]
+            }
+        ],
+        "type_id": 2
+    },
+    {
+        "name": "Cà Phê Đá Xay-Lạnh",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/cf-da-xay-(1)_158038_400x400.jpg",
+        "price": 59000,
+        "description": "Một phiên bản \"upgrade\" từ ly cà phê sữa quen thuộc, nhưng lại tỉnh táo và tươi mát hơn bởi lớp đá xay đi kèm. Nhấp 1 ngụm cà phê đá xay là thấy đã, ngụm thứ hai thêm tỉnh táo và cứ thế lôi cuốn bạn đến ngụm cuối cùng.",
+        "images": [
+            "https://minio.thecoffeehouse.com/image/admin/cf-da-xay-(1)_158038.jpg"
+        ],
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "code": "10030029",
+                        "price": 0,
+                        "product_id": 2198,
+                        "val": "Vừa",
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 2198
+                    },
+                    {
+                        "code": "10030028",
+                        "price": 6000,
+                        "product_id": 2199,
+                        "localize": {
+                            "en": "Lớn",
+                            "vi": "Lớn"
+                        },
+                        "val": "Lớn",
+                        "is_main": true,
+                        "price_str": "+ 6.000đ",
+                        "name": "Lớn",
+                        "id": 2199
+                    }
+                ]
+            }
+        ],
+        "type_id": 3
+    },
+    {
+        "name": "Cookie Đá Xay",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1638170021_cookie-da-xay_400x400.jpg",
+        "price": 59000,
+        "description": "Những mẩu bánh cookies giòn rụm kết hợp ăn ý với sữa tươi, kem tươi béo ngọt và đá xay mát lành, đem đến cảm giác lạ miệng gây thích thú và không thể cưỡng lại. Một món uống phá cách dễ thương đầy mê hoặc.",
+        "images": [
+            "https://minio.thecoffeehouse.com/image/admin/1638170021_cookie-da-xay.jpg"
+        ],
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "product_id": 10030003,
+                        "code": "10030003",
+                        "price": 0,
+                        "val": "Vừa",
+                        "localize": {
+                            "vi": "Vừa",
+                            "en": "Vừa"
+                        },
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 10030003
+                    },
+                    {
+                        "code": "10030018",
+                        "localize": {
+                            "en": "Lớn",
+                            "vi": "Lớn"
+                        },
+                        "price": 6000,
+                        "product_id": 10030018,
+                        "val": "Lớn",
+                        "is_main": true,
+                        "price_str": "+ 6.000đ",
+                        "name": "Lớn",
+                        "id": 10030018
+                    }
+                ]
+            }
+        ],
+        "type_id": 3
+    },
+    {
+        "name": "Chocolate Đá Xay",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/Chocolate-ice-blended_400940_400x400.jpg",
+        "price": 59000,
+        "description": "Sữa và kem tươi béo ngọt được “cá tính hoá” bởi vị chocolate/sô-cô-la đăng đắng. Dành cho các tín đồ hảo ngọt. Lựa chọn hàng đầu nếu bạn đang cần chút năng lượng tinh thần.",
         "images": [
             "https://minio.thecoffeehouse.com/image/admin/Chocolate-ice-blended_400940.jpg"
         ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/Chocolate-ice-blended_400940_400x400.jpg",
-        "price": 59000,
-        "slug": null
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "product_id": 10030002,
+                        "code": "10030002",
+                        "price": 0,
+                        "val": "Vừa",
+                        "localize": {
+                            "vi": "Vừa",
+                            "en": "Vừa"
+                        },
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 10030002
+                    },
+                    {
+                        "code": "10030019",
+                        "localize": {
+                            "en": "Lớn",
+                            "vi": "Lớn"
+                        },
+                        "price": 6000,
+                        "product_id": 10030019,
+                        "val": "Lớn",
+                        "is_main": true,
+                        "price_str": "+ 6.000đ",
+                        "name": "Lớn",
+                        "id": 10030019
+                    }
+                ]
+            },
+            {
+                "group_id": 1,
+                "name": "Topping",
+                "description": "Chọn tối đa 2 loại",
+                "min": 0,
+                "max": 2,
+                "default_index": -1,
+                "items": [
+                    {
+                        "product_id": 10100018,
+                        "product_name": "Sauce Chocolate",
+                        "code": "10100018",
+                        "price": 10000,
+                        "type": 3,
+                        "price_str": "+ 10.000đ",
+                        "name": "Sauce Chocolate",
+                        "id": 10100018
+                    }
+                ]
+            }
+        ],
+        "type_id": 3
     },
     {
         "name": "Phúc Bồn Tử Cam Đá Xay",
-        "description": "Tê tái ngay đầu lưỡi bởi sự mát lạnh của đá xay. Hòa quyện thêm hương vị chua chua, ngọt ngọt từ cam tươi và phúc bồn tử 100% tự nhiên, cho ra một hương vị thanh mát, kích thích vị giác đầy thú vị ngay từ lần đầu thưởng thức. \n",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 0,
-                "items": [
-                    {
-                        "id": 10030021,
-                        "code": "10030021",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    },
-                    {
-                        "id": 10030020,
-                        "code": "10030020",
-                        "price": 6000,
-                        "price_str": "+ 6.000đ",
-                        "name": "Lớn",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/cam-pbt-da-xay_326000_400x400.jpg",
+        "price": 59000,
+        "description": "Tê tái ngay đầu lưỡi bởi sự mát lạnh của đá xay. Hòa quyện thêm hương vị chua chua, ngọt ngọt từ cam tươi và phúc bồn tử 100% tự nhiên, cho ra một hương vị thanh mát, kích thích vị giác đầy thú vị ngay từ lần đầu thưởng thức.",
         "images": [
             "https://minio.thecoffeehouse.com/image/admin/cam-pbt-da-xay_326000.jpg"
         ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/cam-pbt-da-xay_326000_400x400.jpg",
-        "price": 59000,
-        "slug": null
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "code": "10030021",
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "\bVừa"
+                        },
+                        "price": 0,
+                        "product_id": 10030021,
+                        "val": "Vừa",
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 10030021
+                    },
+                    {
+                        "code": "10030020",
+                        "localize": {
+                            "en": "Lớn",
+                            "vi": "Lớn"
+                        },
+                        "price": 6000,
+                        "product_id": 10030020,
+                        "val": "Lớn",
+                        "is_main": true,
+                        "price_str": "+ 6.000đ",
+                        "name": "Lớn",
+                        "id": 10030020
+                    }
+                ]
+            }
+        ],
+        "type_id": 3
     },
     {
         "name": "Chanh Sả Đá Xay",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/Chanh-sa-da-xay_170980_400x400.jpg",
+        "price": 49000,
         "description": "Sự kết hợp hài hoà giữa Chanh & sả - những nguyên liệu mộc mạc rất đỗi quen thuộc cho ra đời một thức uống thanh mát, vị chua chua ngọt ngọt giải nhiệt lại tốt cho sức khỏe.",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 0,
-                "items": [
-                    {
-                        "id": 1968,
-                        "code": "10030011",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    },
-                    {
-                        "id": 10030017,
-                        "code": "10030017",
-                        "price": 6000,
-                        "price_str": "+ 6.000đ",
-                        "name": "Lớn",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
         "images": [
             "https://minio.thecoffeehouse.com/image/admin/Chanh-sa-da-xay_170980.jpg"
         ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/Chanh-sa-da-xay_170980_400x400.jpg",
-        "price": 49000,
-        "slug": null
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "product_id": 1968,
+                        "code": "10030011",
+                        "price": 0,
+                        "val": "Vừa",
+                        "localize": {
+                            "vi": "Vừa",
+                            "en": "Vừa"
+                        },
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 1968
+                    },
+                    {
+                        "code": "10030017",
+                        "localize": {
+                            "en": "Lớn",
+                            "vi": "Lớn"
+                        },
+                        "price": 6000,
+                        "product_id": 10030017,
+                        "val": "Lớn",
+                        "is_main": true,
+                        "price_str": "+ 6.000đ",
+                        "name": "Lớn",
+                        "id": 10030017
+                    }
+                ]
+            }
+        ],
+        "type_id": 3
     },
     {
         "name": "Đào Việt Quất Đá Xay",
-        "description": "Vị đào quen thuộc, được khoác lên mình dáng vẻ thanh mát hơn khi kết hợp với mứt berry và lớp kem ngọt béo ngậy, cho hương vị kích thích vị giác đầy lôi cuốn và khoan khoái ngay từ ngụm đầu tiên.\n",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 0,
-                "items": [
-                    {
-                        "id": 2002,
-                        "code": "10030014",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    },
-                    {
-                        "id": 2003,
-                        "code": "10030015",
-                        "price": 6000,
-                        "price_str": "+ 6.000đ",
-                        "name": "Lớn",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/DaoVietQuat_033985_400x400.jpg",
+        "price": 59000,
+        "description": "Vị đào quen thuộc, được khoác lên mình dáng vẻ thanh mát hơn khi kết hợp với mứt berry và lớp kem ngọt béo ngậy, cho hương vị kích thích vị giác đầy lôi cuốn và khoan khoái ngay từ ngụm đầu tiên.",
         "images": [
             "https://minio.thecoffeehouse.com/image/admin/DaoVietQuat_033985.jpg"
         ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/DaoVietQuat_033985_400x400.jpg",
-        "price": 59000,
-        "slug": null
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "product_id": 2002,
+                        "code": "10030014",
+                        "price": 0,
+                        "val": "Vừa",
+                        "localize": {
+                            "vi": "Vừa",
+                            "en": "Vừa"
+                        },
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 2002
+                    },
+                    {
+                        "code": "10030015",
+                        "localize": {
+                            "en": "Lớn",
+                            "vi": "Lớn"
+                        },
+                        "price": 6000,
+                        "product_id": 2003,
+                        "val": "Lớn",
+                        "is_main": true,
+                        "price_str": "+ 6.000đ",
+                        "name": "Lớn",
+                        "id": 2003
+                    }
+                ]
+            }
+        ],
+        "type_id": 3
     },
     {
         "name": "Yogurt Dưa Lưới phát tài",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/tra-dua-luoi_114296_400x400.jpg",
+        "price": 59000,
         "description": "Vị yogurt chua ngọt, mát lạnh tái tê, thêm topping dưa lưới vàng tươi, thơm lừng, vui miệng. Thật khó để không yêu ngay từ ngụm đầu tiên.",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 0,
-                "items": [
-                    {
-                        "id": 2509,
-                        "code": "10040033",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
         "images": [
             "https://minio.thecoffeehouse.com/image/admin/tra-dua-luoi_114296.jpg"
         ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/tra-dua-luoi_114296_400x400.jpg",
-        "price": 59000,
-        "slug": null
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "code": "10040033",
+                        "price": 0,
+                        "product_id": 2509,
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "val": "Vừa",
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 2509
+                    }
+                ]
+            }
+        ],
+        "type_id": 3
     },
     {
         "name": "Matcha Đá Xay",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/matchadaxay_622077_400x400.jpg",
+        "price": 59000,
         "description": "Matcha thanh, nhẫn, và đắng nhẹ được nhân đôi sảng khoái khi uống lạnh. Nhấn nhá thêm những nét bùi béo của kem và sữa. Gây thương nhớ vô cùng!",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 0,
-                "items": [
-                    {
-                        "id": 10030005,
-                        "code": "10030005",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    },
-                    {
-                        "id": 10030016,
-                        "code": "10030016",
-                        "price": 6000,
-                        "price_str": "+ 6.000đ",
-                        "name": "Lớn",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
         "images": [
             "https://minio.thecoffeehouse.com/image/admin/matchadaxay_622077.jpg"
         ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/matchadaxay_622077_400x400.jpg",
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "product_id": 10030005,
+                        "code": "10030005",
+                        "price": 0,
+                        "val": "Vừa",
+                        "localize": {
+                            "vi": "Vừa",
+                            "en": "Vừa"
+                        },
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 10030005
+                    },
+                    {
+                        "code": "10030016",
+                        "localize": {
+                            "en": "Lớn",
+                            "vi": "Lớn"
+                        },
+                        "price": 6000,
+                        "product_id": 10030016,
+                        "val": "Lớn",
+                        "is_main": true,
+                        "price_str": "+ 6.000đ",
+                        "name": "Lớn",
+                        "id": 10030016
+                    }
+                ]
+            }
+        ],
+        "type_id": 3
+    },
+    {
+        "name": "Sinh Tố Việt Quất",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/sinh-to-viet-quoc_145138_400x400.jpg",
         "price": 59000,
-        "slug": null
+        "description": "Mứt Việt Quất chua thanh, ngòn ngọt, phối hợp nhịp nhàng với dòng sữa chua bổ dưỡng. Là món sinh tố thơm ngon mà cả đầu lưỡi và làn da đều thích.",
+        "images": [
+            "https://minio.thecoffeehouse.com/image/admin/sinh-to-viet-quoc_145138.jpg"
+        ],
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "product_id": 10040007,
+                        "code": "10040007",
+                        "price": 0,
+                        "val": "Vừa",
+                        "localize": {
+                            "vi": "Vừa",
+                            "en": "Vừa"
+                        },
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 10040007
+                    }
+                ]
+            }
+        ],
+        "type_id": 3
+    },
+    {
+        "name": "Trà Matcha Latte Nóng",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/matcha-latte-_936022_400x400.jpg",
+        "price": 59000,
+        "description": "Với màu xanh mát mắt của bột trà Matcha, vị ngọt nhẹ nhàng, pha trộn cùng sữa tươi và lớp foam mềm mịn, Matcha Latte sẽ khiến bạn yêu ngay từ lần đầu tiên.",
+        "images": [
+            "https://minio.thecoffeehouse.com/image/admin/matcha-latte-_936022.jpg"
+        ],
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "product_id": 10010015,
+                        "code": "10010015",
+                        "price": 0,
+                        "val": "Vừa",
+                        "localize": {
+                            "vi": "Vừa",
+                            "en": "Vừa"
+                        },
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 10010015
+                    }
+                ]
+            }
+        ],
+        "type_id": 3
     },
     {
         "name": "Cà Phê Hoà Tan Đậm Vị Việt (18 gói x 16 gam)",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1639648313_ca-phe-sua-da-hoa-tan-dam-vi-viet_400x400.jpg",
+        "price": 48000,
         "description": "Bắt đầu ngày mới với tách cà phê sữa “Đậm vị Việt” mạnh mẽ sẽ giúp bạn luôn tỉnh táo và hứng khởi cho ngày làm việc thật hiệu quả.",
+        "images": [
+            "https://minio.thecoffeehouse.com/image/admin/1639648313_ca-phe-sua-da-hoa-tan-dam-vi-viet.jpg"
+        ],
+        "slug": "",
         "options": [
             {
                 "group_id": 0,
@@ -1217,27 +1752,33 @@
                 "default_index": 0,
                 "items": [
                     {
-                        "id": 2631,
                         "code": "11020146",
                         "price": 0,
+                        "product_id": 2631,
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "val": "Vừa",
+                        "is_main": true,
                         "price_str": "+ 0đ",
                         "name": "Vừa",
-                        "min": null,
-                        "max": null
+                        "id": 2631
                     }
                 ]
             }
         ],
-        "images": [
-            "https://minio.thecoffeehouse.com/image/admin/1638341776_ca-phe-3in1.jpg"
-        ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1638341776_ca-phe-3in1_400x400.jpg",
-        "price": 48000,
-        "slug": null
+        "type_id": 4
     },
     {
         "name": "Combo 3 Hộp Cà Phê Hòa Tan Đậm Vị Việt",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1638341723_combo-ca-phe-3in1-damviviet_400x400.jpg",
+        "price": 109000,
         "description": "Bắt đầu ngày mới với tách cà phê sữa “Đậm vị Việt” mạnh mẽ sẽ giúp bạn luôn tỉnh táo và hứng khởi cho ngày làm việc thật hiệu quả.",
+        "images": [
+            "https://minio.thecoffeehouse.com/image/admin/1638341723_combo-ca-phe-3in1-damviviet.jpg"
+        ],
+        "slug": "",
         "options": [
             {
                 "group_id": 0,
@@ -1248,27 +1789,37 @@
                 "default_index": 0,
                 "items": [
                     {
-                        "id": 2642,
                         "code": "11020147",
                         "price": 0,
+                        "product_id": 2642,
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "val": "Vừa",
+                        "is_main": true,
                         "price_str": "+ 0đ",
                         "name": "Vừa",
-                        "min": null,
-                        "max": null
+                        "id": 2642
                     }
                 ]
             }
         ],
-        "images": [
-            "https://minio.thecoffeehouse.com/image/admin/1638341723_combo-ca-phe-3in1-damviviet.jpg"
-        ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1638341723_combo-ca-phe-3in1-damviviet_400x400.jpg",
-        "price": 109000,
-        "slug": null
+        "type_id": 4
     },
     {
         "name": "Cà Phê Rang Xay Original 1",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1639648297_ca-phe-rang-xay-original-1-250gr_400x400.jpg",
+        "price": 60000,
         "description": "Cà phê Original 1 của The Coffee House với thành phần chính cà phê Robusta Đắk Lắk, vùng trồng cà phê nổi tiếng nhất Việt Nam. Bằng cách áp dụng kỹ thuật rang xay hiện đại, Cà phê Original 1 mang đến trải nghiệm tuyệt vời khi uống cà phê tại nhà với hương vị đậm đà truyền thống hợp khẩu vị của giới trẻ sành cà phê.",
+        "images": [
+            "https://minio.thecoffeehouse.com/image/admin/1639648297_ca-phe-rang-xay-original-1-250gr.jpg",
+            "https://minio.thecoffeehouse.com/image/admin/1637231135_original1-lifestyle-3.jpg",
+            "https://minio.thecoffeehouse.com/image/admin/1637231135_original1-lifestyle-2.jpg",
+            "https://minio.thecoffeehouse.com/image/admin/1637231136_original1-lifestyle-1.jpg",
+            "https://minio.thecoffeehouse.com/image/admin/1639648297_ca-phe-rang-xay-original-1-250gr.jpg"
+        ],
+        "slug": "",
         "options": [
             {
                 "group_id": 0,
@@ -1279,32 +1830,33 @@
                 "default_index": 0,
                 "items": [
                     {
-                        "id": 2615,
                         "code": "11020131",
                         "price": 0,
+                        "product_id": 2615,
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "val": "Vừa",
+                        "is_main": true,
                         "price_str": "+ 0đ",
                         "name": "Vừa",
-                        "min": null,
-                        "max": null
+                        "id": 2615
                     }
                 ]
             }
         ],
-        "images": [
-            "https://minio.thecoffeehouse.com/image/admin/Original1_1_441954_203377.jpg",
-            "https://minio.thecoffeehouse.com/image/admin/1636613871_original-1-1.jpg",
-            "https://minio.thecoffeehouse.com/image/admin/1636613872_original-1-2.jpg",
-            "https://minio.thecoffeehouse.com/image/admin/1637231135_original1-lifestyle-3.jpg",
-            "https://minio.thecoffeehouse.com/image/admin/1637231135_original1-lifestyle-2.jpg",
-            "https://minio.thecoffeehouse.com/image/admin/1637231136_original1-lifestyle-1.jpg"
-        ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/Original1_1_441954_203377_400x400.jpg",
-        "price": 60000,
-        "slug": null
+        "type_id": 4
     },
     {
         "name": "Combo 2 Cà Phê Rang Xay Original 1",
-        "description": "Cà phê Original 1 của The Coffee House với thành phần chính cà phê Robusta Đắk Lắk, vùng trồng cà phê nổi tiếng nhất Việt Nam. Bằng cách áp dụng kỹ thuật rang xay hiện đại, Cà phê Original 1 mang đến trải nghiệm tuyệt vời khi uống cà phê tại nhà với hương vị đậm đà truyền thống hợp khẩu vị của giới trẻ sành cà phê.\n",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1637288994_combo2-cforiginal-1_400x400.jpg",
+        "price": 99000,
+        "description": "Cà phê Original 1 của The Coffee House với thành phần chính cà phê Robusta Đắk Lắk, vùng trồng cà phê nổi tiếng nhất Việt Nam. Bằng cách áp dụng kỹ thuật rang xay hiện đại, Cà phê Original 1 mang đến trải nghiệm tuyệt vời khi uống cà phê tại nhà với hương vị đậm đà truyền thống hợp khẩu vị của giới trẻ sành cà phê.",
+        "images": [
+            "https://minio.thecoffeehouse.com/image/admin/1637288994_combo2-cforiginal-1.jpg"
+        ],
+        "slug": "",
         "options": [
             {
                 "group_id": 0,
@@ -1315,89 +1867,70 @@
                 "default_index": 0,
                 "items": [
                     {
-                        "id": 2623,
                         "code": "11020142",
                         "price": 0,
+                        "product_id": 2623,
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "val": "Vừa",
+                        "is_main": true,
                         "price_str": "+ 0đ",
                         "name": "Vừa",
-                        "min": null,
-                        "max": null
+                        "id": 2623
                     }
                 ]
             }
         ],
-        "images": [
-            "https://minio.thecoffeehouse.com/image/admin/1637288994_combo2-cforiginal-1.jpg"
-        ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1637288994_combo2-cforiginal-1_400x400.jpg",
-        "price": 99000,
-        "slug": null
+        "type_id": 4
     },
     {
         "name": "Cà Phê Sữa Đá Hòa Tan",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/cpsd-3in1_971575_400x400.jpg",
+        "price": 44000,
         "description": "Thật dễ dàng để bắt đầu ngày mới với tách cà phê sữa đá sóng sánh, thơm ngon như cà phê pha phin.\nVị đắng thanh của cà phê hoà quyện với vị ngọt béo của sữa, giúp bạn luôn tỉnh táo và hứng khởi cho ngày làm việc thật hiệu quả.",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 0,
-                "items": [
-                    {
-                        "id": 2567,
-                        "code": "11020106",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
         "images": [
             "https://minio.thecoffeehouse.com/image/admin/cpsd-3in1_971575.jpg"
         ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/cpsd-3in1_971575_400x400.jpg",
-        "price": 44000,
-        "slug": null
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "code": "11020106",
+                        "price": 0,
+                        "product_id": 2567,
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "val": "Vừa",
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 2567
+                    }
+                ]
+            }
+        ],
+        "type_id": 4
     },
     {
         "name": "Combo 3 Hộp Cà Phê Sữa Đá Hòa Tan",
-        "description": "Thật dễ dàng để bắt đầu ngày mới với tách cà phê sữa đá sóng sánh, thơm ngon như cà phê pha phin. Vị đắng thanh của cà phê hoà quyện với vị ngọt béo của sữa, giúp bạn luôn tỉnh táo và hứng khởi cho ngày làm việc thật hiệu quả.\n",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 0,
-                "items": [
-                    {
-                        "id": 2581,
-                        "code": "11020119",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/combo-3cfsd-nopromo_320619_400x400.jpg",
+        "price": 109000,
+        "description": "Thật dễ dàng để bắt đầu ngày mới với tách cà phê sữa đá sóng sánh, thơm ngon như cà phê pha phin. Vị đắng thanh của cà phê hoà quyện với vị ngọt béo của sữa, giúp bạn luôn tỉnh táo và hứng khởi cho ngày làm việc thật hiệu quả.",
         "images": [
             "https://minio.thecoffeehouse.com/image/admin/combo-3cfsd-nopromo_320619.jpg"
         ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/combo-3cfsd-nopromo_320619_400x400.jpg",
-        "price": 109000,
-        "slug": null
-    },
-    {
-        "name": " Cà Phê Sữa Đá Hòa Tan Túi 25x22G",
-        "description": "Thật dễ dàng để bắt đầu ngày mới với tách cà phê sữa đá sóng sánh, thơm ngon như cà phê pha phin. Vị đắng thanh của cà phê hoà quyện với vị ngọt béo của sữa, giúp bạn luôn tỉnh táo và hứng khởi cho ngày làm việc thật hiệu quả.",
+        "slug": "",
         "options": [
             {
                 "group_id": 0,
@@ -1408,523 +1941,699 @@
                 "default_index": 0,
                 "items": [
                     {
-                        "id": 2616,
-                        "code": "11020132",
+                        "code": "11020119",
                         "price": 0,
+                        "product_id": 2581,
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "val": "Vừa",
+                        "is_main": true,
                         "price_str": "+ 0đ",
                         "name": "Vừa",
-                        "min": null,
-                        "max": null
+                        "id": 2581
                     }
                 ]
             }
         ],
-        "images": [
-            "https://minio.thecoffeehouse.com/image/admin/3in1_Bigpack_257398.png"
-        ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/3in1_Bigpack_257398_400x400.png",
+        "type_id": 4
+    },
+    {
+        "name": "Cà Phê Sữa Đá Hòa Tan Túi 25x22G",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1639648355_ca-phe-sua-da-hoa-tan-tui-25x22gr_400x400.jpg",
         "price": 99000,
-        "slug": null
+        "description": "Thật dễ dàng để bắt đầu ngày mới với tách cà phê sữa đá sóng sánh, thơm ngon như cà phê pha phin. Vị đắng thanh của cà phê hoà quyện với vị ngọt béo của sữa, giúp bạn luôn tỉnh táo và hứng khởi cho ngày làm việc thật hiệu quả.",
+        "images": [
+            "https://minio.thecoffeehouse.com/image/admin/1639648355_ca-phe-sua-da-hoa-tan-tui-25x22gr.jpg"
+        ],
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "code": "11020132",
+                        "price": 0,
+                        "product_id": 2616,
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "val": "Vừa",
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 2616
+                    }
+                ]
+            }
+        ],
+        "type_id": 4
     },
     {
         "name": "Thùng 24 Lon Cà Phê Sữa Đá",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/24-lon-cpsd_225680_400x400.jpg",
+        "price": 269000,
         "description": "Với thiết kế lon cao trẻ trung, hiện đại và tiện lợi, Cà phê sữa đá lon thơm ngon đậm vị của The Coffee House sẽ đồng hành cùng nhịp sống sôi nổi của tuổi trẻ và giúp bạn có được một ngày làm việc đầy hứng khởi.",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 0,
-                "items": [
-                    {
-                        "id": 2572,
-                        "code": "11020109",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
         "images": [
             "https://minio.thecoffeehouse.com/image/admin/24-lon-cpsd_225680.jpg"
         ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/24-lon-cpsd_225680_400x400.jpg",
-        "price": 269000,
-        "slug": null
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "code": "11020109",
+                        "price": 0,
+                        "product_id": 2572,
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "val": "Vừa",
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 2572
+                    }
+                ]
+            }
+        ],
+        "type_id": 4
+    },
+    {
+        "name": "Cà Phê Rich Finish Gu Đậm Tinh Tế (350G)",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/rich-finish-nopromo_485968_400x400.jpg",
+        "price": 90000,
+        "description": "The Coffee House  hiểu rằng ly cà phê ngon phải đậm đà, rõ vị từ cái chạm đầu tiên đến hậu vị vương vấn. Cà phê Rich Finish mang đến những ly cà phê đậm, thơm, hương vị tinh tế giúp bạn bắt đầu ngày mới đầy năng lượng.",
+        "images": [
+            "https://minio.thecoffeehouse.com/image/admin/rich-finish-nopromo_485968.jpg"
+        ],
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "code": "11020103",
+                        "price": 0,
+                        "product_id": 2565,
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "val": "Vừa",
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 2565
+                    }
+                ]
+            }
+        ],
+        "type_id": 4
+    },
+    {
+        "name": "Cà Phê Peak Flavor Hương Thơm Đỉnh Cao (350G)",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/peak-plavor-nopromo_715372_400x400.jpg",
+        "price": 90000,
+        "description": "Được rang dưới nhiệt độ vàng, Cà phê Peak Flavor - Hương thơm đỉnh cao lưu giữ trọn vẹn hương thơm tinh tế đặc trưng của cà phê Robusta Đăk Nông và Arabica Cầu Đất. Với sự hòa trộn nhiều cung bậc giữa hương và vị sẽ mang đến cho bạn một ngày mới tràn đầy cảm hứng.",
+        "images": [
+            "https://minio.thecoffeehouse.com/image/admin/peak-plavor-nopromo_715372.jpg"
+        ],
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "code": "11020104",
+                        "price": 0,
+                        "product_id": 2566,
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "val": "Vừa",
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 2566
+                    }
+                ]
+            }
+        ],
+        "type_id": 4
     },
     {
         "name": "Mít Sấy",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/mit-say_666228_400x400.jpg",
+        "price": 20000,
         "description": "Mít sấy khô vàng ươm, giòn rụm, giữ nguyên được vị ngọt lịm của mít tươi.",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 0,
-                "items": [
-                    {
-                        "id": 11040193,
-                        "code": "11040193",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
         "images": [
             "https://minio.thecoffeehouse.com/image/admin/mit-say_666228.jpg"
         ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/mit-say_666228_400x400.jpg",
-        "price": 20000,
-        "slug": null
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "code": "11040193",
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "price": 0,
+                        "product_id": 11040193,
+                        "val": "Vừa",
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 11040193
+                    }
+                ]
+            }
+        ],
+        "type_id": 5
     },
     {
         "name": "Gà Xé Lá Chanh",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/kho-ga-la-chanh_995862_400x400.jpg",
+        "price": 25000,
         "description": "Thịt gà được xé tơi, mang hương vị mặn, ngọt, cay cay quyện nhau vừa chuẩn, thêm chút thơm thơm thơm từ lá chanh sấy khô giòn giòn xua tan ngay cơn buồn miệng.",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 0,
-                "items": [
-                    {
-                        "id": 2350,
-                        "code": "11020079",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
         "images": [
             "https://minio.thecoffeehouse.com/image/admin/kho-ga-la-chanh_995862.jpg"
         ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/kho-ga-la-chanh_995862_400x400.jpg",
-        "price": 25000,
-        "slug": null
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "code": "11020079",
+                        "price": 0,
+                        "product_id": 2350,
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "val": "Vừa",
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 2350
+                    }
+                ]
+            }
+        ],
+        "type_id": 5
     },
     {
         "name": "Ly inox ống hút đen nhám",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/5eb92ae0ee4dc00012633b2b_Binh-inox-ong-hut-den-nham_338437_400x400.jpg",
+        "price": 280000,
         "description": "Màu đen ngày nào cũng được khen- Chiếc ly inbox kèm ống hút mang sắc đen ngầu này sẽ là người bạn đồng hành may mắn mỗi ngày bên bạn, nước ngon hơn, nhiều cảm hứng hơn. \nDung tích: 500 ml\nChất liệu: Inox, nhựa",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 0,
-                "items": [
-                    {
-                        "id": 2224,
-                        "code": "11020069",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
         "images": [
             "https://minio.thecoffeehouse.com/image/admin/5eb92ae0ee4dc00012633b2b_Binh-inox-ong-hut-den-nham_338437.jpg"
         ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/5eb92ae0ee4dc00012633b2b_Binh-inox-ong-hut-den-nham_338437_400x400.jpg",
-        "price": 280000,
-        "slug": null
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "code": "11020069",
+                        "price": 0,
+                        "product_id": 2224,
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "val": "Vừa",
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 2224
+                    }
+                ]
+            }
+        ],
+        "type_id": 6
     },
     {
         "name": "Ly Inox Ống Hút Xanh Biển",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/5eb92ae1ee4dc00012633b2c_Binh-inox-ong-hut-xanh-bien_233565_400x400.jpg",
+        "price": 280000,
         "description": "Màu xanh \"chốt\" gì cũng nhanh - Chiếc ly inbox kèm ống hút mang sắc xanh này sẽ là người bạn đồng hành may mắn mỗi ngày bên bạn, nước ngon hơn, nhiều cảm hứng hơn. \nDung tích: 500 ml\nChất liệu: Inox, nhựa",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 0,
-                "items": [
-                    {
-                        "id": 2223,
-                        "code": "11020070",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
         "images": [
             "https://minio.thecoffeehouse.com/image/admin/5eb92ae1ee4dc00012633b2c_Binh-inox-ong-hut-xanh-bien_233565.jpg"
         ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/5eb92ae1ee4dc00012633b2c_Binh-inox-ong-hut-xanh-bien_233565_400x400.jpg",
-        "price": 280000,
-        "slug": null
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "code": "11020070",
+                        "price": 0,
+                        "product_id": 2223,
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "val": "Vừa",
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 2223
+                    }
+                ]
+            }
+        ],
+        "type_id": 6
     },
     {
         "name": "Ly Inox Ống Hút Hồng Xanh",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/5eb92ae1ee4dc00012633b2d_Binh-inox-ong-hut-xanh-hong_584047_400x400.jpg",
+        "price": 280000,
         "description": "Màu hồng xanh may mắn tới nhanh - Chiếc ly inbox kèm ống hút mang sắc xanh này sẽ là người bạn đồng hành may mắn mỗi ngày bên bạn, nước ngon hơn, nhiều cảm hứng hơn. \nDung tích: 500 ml \nChất liệu: Inox, nhựa",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 0,
-                "items": [
-                    {
-                        "id": 2222,
-                        "code": "11020071",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
         "images": [
             "https://minio.thecoffeehouse.com/image/admin/5eb92ae1ee4dc00012633b2d_Binh-inox-ong-hut-xanh-hong_584047.jpg"
         ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/5eb92ae1ee4dc00012633b2d_Binh-inox-ong-hut-xanh-hong_584047_400x400.jpg",
-        "price": 280000,
-        "slug": null
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "code": "11020071",
+                        "price": 0,
+                        "product_id": 2222,
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "val": "Vừa",
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 2222
+                    }
+                ]
+            }
+        ],
+        "type_id": 6
     },
     {
         "name": "Bình giữ nhiệt Inox Quả Dứa",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/thum-dua_661718_400x400.jpg",
+        "price": 300000,
         "description": "Xách bình đi khắp thế gian, với thiết kế xịn sò, màu sắc nổi bật, người bạn mới này sẽ nhắc bạn uống nước mỗi ngày ngon hơn, đều đặn hơn nha. \nDung tích: 500ml \nChất liệu: Inox",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 0,
-                "items": [
-                    {
-                        "id": 2239,
-                        "code": "11020065",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
         "images": [
             "https://minio.thecoffeehouse.com/image/admin/thum-dua_661718.jpg"
         ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/thum-dua_661718_400x400.jpg",
-        "price": 300000,
-        "slug": null
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "code": "11020065",
+                        "price": 0,
+                        "product_id": 2239,
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "val": "Vừa",
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 2239
+                    }
+                ]
+            }
+        ],
+        "type_id": 6
     },
     {
         "name": "Bình giữ nhiệt Inox Con Thuyền",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/con-thuyen_238139_400x400.jpg",
+        "price": 300000,
         "description": "Xách bình đi khắp thế gian, với thiết kế xịn sò, màu sắc nổi bật, người bạn mới này sẽ nhắc bạn uống nước mỗi ngày ngon hơn, đều đặn hơn nha. \nDung tích: 500ml \nChất liệu: Inox",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 0,
-                "items": [
-                    {
-                        "id": 2238,
-                        "code": "11020066",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
         "images": [
             "https://minio.thecoffeehouse.com/image/admin/con-thuyen_238139.jpg"
         ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/con-thuyen_238139_400x400.jpg",
-        "price": 300000,
-        "slug": null
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "code": "11020066",
+                        "price": 0,
+                        "product_id": 2238,
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "val": "Vừa",
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 2238
+                    }
+                ]
+            }
+        ],
+        "type_id": 6
     },
     {
         "name": "Ly Farm to Cup (Cao)",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/5ef00e2b91ab1a0012840421_Ly-Farm-to-cup-cao_858647_400x400.jpg",
+        "price": 150000,
         "description": "Lấy cảm hứng từ vùng đất cà phê Việt Nam, ly sứ Farm To Cup sẽ cho bạn trải nghiệm đầy cảm hứng với món yêu thích  tại nhà, tại nơi làm việc mỗi ngày. \nDung tích ly: 400ml \nThành phần: Cao lanh, đất sét, tráng thạch, men màu.",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 0,
-                "items": [
-                    {
-                        "id": 2276,
-                        "code": "11020077",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
         "images": [
             "https://minio.thecoffeehouse.com/image/admin/5ef00e2b91ab1a0012840421_Ly-Farm-to-cup-cao_858647.jpg"
         ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/5ef00e2b91ab1a0012840421_Ly-Farm-to-cup-cao_858647_400x400.jpg",
-        "price": 150000,
-        "slug": null
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "code": "11020077",
+                        "price": 0,
+                        "product_id": 2276,
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "val": "Vừa",
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 2276
+                    }
+                ]
+            }
+        ],
+        "type_id": 6
     },
     {
         "name": "Ly Farm to Cup (Thấp)",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/5ef00e2b91ab1a0012840422_Ly-Farm-to-cup-thap_258417_400x400.jpg",
+        "price": 120000,
         "description": "Lấy cảm hứng từ vùng đất cà phê Việt Nam, ly sứ Farm To Cup sẽ cho bạn trải nghiệm đầy cảm hứng với món yêu thích  tại nhà, tại nơi làm việc mỗi ngày. \nDung tích ly: 300ml \nThành phần: Cao lanh, đất sét, tráng thạch, men màu.",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 0,
-                "items": [
-                    {
-                        "id": 2275,
-                        "code": "11020076",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
         "images": [
             "https://minio.thecoffeehouse.com/image/admin/5ef00e2b91ab1a0012840422_Ly-Farm-to-cup-thap_258417.jpg"
         ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/5ef00e2b91ab1a0012840422_Ly-Farm-to-cup-thap_258417_400x400.jpg",
-        "price": 120000,
-        "slug": null
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "code": "11020076",
+                        "price": 0,
+                        "product_id": 2275,
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "val": "Vừa",
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 2275
+                    }
+                ]
+            }
+        ],
+        "type_id": 6
     },
     {
         "name": "Combo 3 Hộp Cà Phê Hòa Tan Đậm Vị Việt",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1638341723_combo-ca-phe-3in1-damviviet_400x400.jpg",
+        "price": 109000,
         "description": "Bắt đầu ngày mới với tách cà phê sữa “Đậm vị Việt” mạnh mẽ sẽ giúp bạn luôn tỉnh táo và hứng khởi cho ngày làm việc thật hiệu quả.",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 0,
-                "items": [
-                    {
-                        "id": 2642,
-                        "code": "11020147",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
         "images": [
             "https://minio.thecoffeehouse.com/image/admin/1638341723_combo-ca-phe-3in1-damviviet.jpg"
         ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1638341723_combo-ca-phe-3in1-damviviet_400x400.jpg",
-        "price": 109000,
-        "slug": null
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "code": "11020147",
+                        "price": 0,
+                        "product_id": 2642,
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "val": "Vừa",
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 2642
+                    }
+                ]
+            }
+        ],
+        "type_id": 7
     },
     {
         "name": "Combo 2 Cà Phê Rang Xay Original 1",
-        "description": "Cà phê Original 1 của The Coffee House với thành phần chính cà phê Robusta Đắk Lắk, vùng trồng cà phê nổi tiếng nhất Việt Nam. Bằng cách áp dụng kỹ thuật rang xay hiện đại, Cà phê Original 1 mang đến trải nghiệm tuyệt vời khi uống cà phê tại nhà với hương vị đậm đà truyền thống hợp khẩu vị của giới trẻ sành cà phê.\n",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 0,
-                "items": [
-                    {
-                        "id": 2623,
-                        "code": "11020142",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1637288994_combo2-cforiginal-1_400x400.jpg",
+        "price": 99000,
+        "description": "Cà phê Original 1 của The Coffee House với thành phần chính cà phê Robusta Đắk Lắk, vùng trồng cà phê nổi tiếng nhất Việt Nam. Bằng cách áp dụng kỹ thuật rang xay hiện đại, Cà phê Original 1 mang đến trải nghiệm tuyệt vời khi uống cà phê tại nhà với hương vị đậm đà truyền thống hợp khẩu vị của giới trẻ sành cà phê.",
         "images": [
             "https://minio.thecoffeehouse.com/image/admin/1637288994_combo2-cforiginal-1.jpg"
         ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1637288994_combo2-cforiginal-1_400x400.jpg",
-        "price": 99000,
-        "slug": null
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "code": "11020142",
+                        "price": 0,
+                        "product_id": 2623,
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "val": "Vừa",
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 2623
+                    }
+                ]
+            }
+        ],
+        "type_id": 7
     },
     {
         "name": "Combo 3 Hộp Cà Phê Sữa Đá Hòa Tan",
-        "description": "Thật dễ dàng để bắt đầu ngày mới với tách cà phê sữa đá sóng sánh, thơm ngon như cà phê pha phin. Vị đắng thanh của cà phê hoà quyện với vị ngọt béo của sữa, giúp bạn luôn tỉnh táo và hứng khởi cho ngày làm việc thật hiệu quả.\n",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 0,
-                "items": [
-                    {
-                        "id": 2581,
-                        "code": "11020119",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/combo-3cfsd-nopromo_320619_400x400.jpg",
+        "price": 109000,
+        "description": "Thật dễ dàng để bắt đầu ngày mới với tách cà phê sữa đá sóng sánh, thơm ngon như cà phê pha phin. Vị đắng thanh của cà phê hoà quyện với vị ngọt béo của sữa, giúp bạn luôn tỉnh táo và hứng khởi cho ngày làm việc thật hiệu quả.",
         "images": [
             "https://minio.thecoffeehouse.com/image/admin/combo-3cfsd-nopromo_320619.jpg"
         ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/combo-3cfsd-nopromo_320619_400x400.jpg",
-        "price": 109000,
-        "slug": null
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "code": "11020119",
+                        "price": 0,
+                        "product_id": 2581,
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "val": "Vừa",
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 2581
+                    }
+                ]
+            }
+        ],
+        "type_id": 7
     },
     {
         "name": "Combo 3 Hộp Trà Oolong Túi Lọc Tearoma",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1638341615_combo-tra-oolong_400x400.jpg",
+        "price": 69000,
         "description": "Trà Oolong túi lọc với mùi hương dịu nhẹ hoàn toàn từ tự nhiên, vị hậu ngọt, và hương thơm tinh tế. Trà túi lọc Tearoma tiện lợi để sử dụng tại văn phòng, tại nhà,... nhưng vẫn đảm bảo được chất lượng về hương trà tinh tế, vị trà đậm đà.",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 0,
-                "items": [
-                    {
-                        "id": 2646,
-                        "code": "11020151",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
         "images": [
             "https://minio.thecoffeehouse.com/image/admin/1638341615_combo-tra-oolong.jpg"
         ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1638341615_combo-tra-oolong_400x400.jpg",
-        "price": 69000,
-        "slug": null
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "code": "11020151",
+                        "price": 0,
+                        "product_id": 2646,
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "val": "Vừa",
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 2646
+                    }
+                ]
+            }
+        ],
+        "type_id": 7
     },
     {
         "name": "Combo 3 Hộp Trà Lài Túi Lọc Tearoma",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1638341675_combo-tra-huong-lai_400x400.jpg",
+        "price": 69000,
         "description": "Trà túi lọc Tearoma hương lài thơm tinh tế, thanh mát, trên nền trà xanh đậm đà khó quên. Trà túi lọc Tearoma tiện lợi để sử dụng tại văn phòng, tại nhà,.. nhưng vẫn đảm bảo được chất lượng về hương trà tinh tế, vị trà đậm đà.",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 0,
-                "items": [
-                    {
-                        "id": 2645,
-                        "code": "11020150",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
         "images": [
             "https://minio.thecoffeehouse.com/image/admin/1638341675_combo-tra-huong-lai.jpg"
         ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1638341675_combo-tra-huong-lai_400x400.jpg",
-        "price": 69000,
-        "slug": null
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "code": "11020150",
+                        "price": 0,
+                        "product_id": 2645,
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "val": "Vừa",
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 2645
+                    }
+                ]
+            }
+        ],
+        "type_id": 7
     },
     {
         "name": "Combo 3 Hộp Trà Sen Túi Lọc Tearoma",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1638341689_combo-tra-huong-sen_400x400.jpg",
+        "price": 69000,
         "description": "Trà túi lọc Tearoma hương sen tinh tế, thanh mát, trên nền trà xanh đậm đà khó quên. Trà túi lọc Tearoma tiện lợi để sử dụng tại văn phòng, tại nhà, đi du lịch,... nhưng vẫn đảm bảo được chất lượng về hương trà tinh tế, vị trà đậm đà.",
-        "options": [
-            {
-                "group_id": 0,
-                "name": "Size",
-                "description": "Chọn 1 loại size",
-                "min": 1,
-                "max": 1,
-                "default_index": 0,
-                "items": [
-                    {
-                        "id": 2644,
-                        "code": "11020149",
-                        "price": 0,
-                        "price_str": "+ 0đ",
-                        "name": "Vừa",
-                        "min": null,
-                        "max": null
-                    }
-                ]
-            }
-        ],
         "images": [
             "https://minio.thecoffeehouse.com/image/admin/1638341689_combo-tra-huong-sen.jpg"
         ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1638341689_combo-tra-huong-sen_400x400.jpg",
-        "price": 69000,
-        "slug": null
-    },
-    {
-        "name": "Combo 3 Hộp Trà Đào Túi Lọc Tearoma",
-        "description": "Trà túi lọc Tearoma hương đào với hương thơm tinh tế và hoàn toàn tự nhiên, cùng nền trà đen đậm vị khó quên. Trà túi lọc Tearoma tiện lợi để sử dụng tại văn phòng, tại nhà,.. nhưng vẫn đảm bảo được chất lượng về hương trà tinh tế, vị trà đậm đà.",
+        "slug": "",
         "options": [
             {
                 "group_id": 0,
@@ -1935,22 +2644,59 @@
                 "default_index": 0,
                 "items": [
                     {
-                        "id": 2643,
-                        "code": "11020148",
+                        "code": "11020149",
                         "price": 0,
+                        "product_id": 2644,
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "val": "Vừa",
+                        "is_main": true,
                         "price_str": "+ 0đ",
                         "name": "Vừa",
-                        "min": null,
-                        "max": null
+                        "id": 2644
                     }
                 ]
             }
         ],
+        "type_id": 7
+    },
+    {
+        "name": "Combo 3 Hộp Trà Đào Túi Lọc Tearoma",
+        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1638344058_combo-tra-huong-dao_400x400.jpg",
+        "price": 69000,
+        "description": "Trà túi lọc Tearoma hương đào với hương thơm tinh tế và hoàn toàn tự nhiên, cùng nền trà đen đậm vị khó quên. Trà túi lọc Tearoma tiện lợi để sử dụng tại văn phòng, tại nhà,.. nhưng vẫn đảm bảo được chất lượng về hương trà tinh tế, vị trà đậm đà.",
         "images": [
             "https://minio.thecoffeehouse.com/image/admin/1638344058_combo-tra-huong-dao.jpg"
         ],
-        "thumbnail": "https://minio.thecoffeehouse.com/image/admin/1638344058_combo-tra-huong-dao_400x400.jpg",
-        "price": 69000,
-        "slug": null
+        "slug": "",
+        "options": [
+            {
+                "group_id": 0,
+                "name": "Size",
+                "description": "Chọn 1 loại size",
+                "min": 1,
+                "max": 1,
+                "default_index": 0,
+                "items": [
+                    {
+                        "code": "11020148",
+                        "price": 0,
+                        "product_id": 2643,
+                        "localize": {
+                            "en": "Vừa",
+                            "vi": "Vừa"
+                        },
+                        "val": "Vừa",
+                        "is_main": true,
+                        "price_str": "+ 0đ",
+                        "name": "Vừa",
+                        "id": 2643
+                    }
+                ]
+            }
+        ],
+        "type_id": 7
     }
 ]

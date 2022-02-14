@@ -15,7 +15,7 @@ router.get('/' , async (req , res) => {
 router.get('/:coffeeId' , async (req , res) => {
     try{
         const coffee = await Coffee.findById(req.params.coffeeId);
-        res.json( coffee );
+        res.json(coffee);
     }catch( err ) {
         res.json({message: err});
     }
@@ -42,7 +42,7 @@ router.post('/add' , async (req , res) => {
     }
 });
 
-router.delete('/del/:coffeeId' , async (req , res) => {
+router.post('/del/:coffeeId' , async (req , res) => {
     
     try{
         const removeCoffees = await Coffee.remove({_id: req.params.coffeeId})
@@ -53,7 +53,7 @@ router.delete('/del/:coffeeId' , async (req , res) => {
     }
 });
 
-router.patch('/upd/:coffeeId' , async (req , res) => {
+router.post('/upd/:coffeeId' , async (req , res) => {
     try{
         const updateCoffee = await Coffee.updateOne(
             {_id: req.params.coffeeId}, 

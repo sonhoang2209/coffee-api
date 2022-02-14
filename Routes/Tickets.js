@@ -1,21 +1,47 @@
 const express = require('express');
 const router = express.Router();
-const Coffee = require('../models/Ticket')
+const Ticket = require('../models/Ticket')
 
 router.get('/' , async (req , res) => {
     try{
-        const coffees = await Coffee.find();
-        res.json(coffees);
+        const tickets = await Ticket.find();
+        res.json(tickets);
     }
     catch( err ) {
         res.json({message: err});
     }
 });
 
-router.get('/:coffeeId' , async (req , res) => {
+router.get('/:ticketId' , async (req , res) => {
     try{
-        const coffee = await Coffee.findById(req.params.coffeeId);
-        res.json( coffee );
+        const ticket = await Ticket.findById(req.params.ticketId);
+        res.json( ticket );
+    }catch( err ) {
+        res.json({message: err});
+    }
+});
+
+router.post('/add' , async (req , res) => {
+    const category = new Ticket({
+        title: req.body.title,
+        description: req.body.description,
+        image: req.body.image,
+        discount_rate: req.body.discount_rate,
+        barcode: req.body.barcode
+    });
+
+    try{
+        const saveCategory = await category.save();
+        res.json(saveCategory);
+    }catch( err ) {
+        res.json({message: err});
+    }
+});
+
+router.delete('/del/:ticketId' , async (req , res) => {
+    try{
+        const ticket = await Ticket.remove({_id: req.params.ticketId})
+        res.json( ticket );
     }catch( err ) {
         res.json({message: err});
     }

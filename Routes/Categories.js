@@ -48,7 +48,7 @@ router.delete('/del/:categoryId' , async (req , res) => {
     }
 });
 
-router.patch('/upd/:categoryId' , async (req , res) => {
+router.post('/upd/:categoryId' , async (req , res) => {
     try{
         const updateCategory = await Category.updateOne(
             {_id: req.params.categoryId}, 

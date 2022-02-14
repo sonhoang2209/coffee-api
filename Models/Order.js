@@ -5,6 +5,10 @@ const PostSchema = mongoose.Schema({
         type: String,
         required:true
     },
+    fullName:{
+        type: String,
+        required:true
+    },
     list_product:{
         type: Array,
         required:true
